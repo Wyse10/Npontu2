@@ -1,0 +1,1001 @@
+customer_id,age,gender,country,device_type,session_duration,pages_visited,products_viewed,cart_additions,purchases,total_spent,last_purchase_days,membership_status,discount_used,churn
+1,56,Male,Nigeria,Desktop,104,30,13,4,5,1455.74,34,Premium,No,0
+2,46,Female,Kenya,Mobile,75,37,13,12,1,1201.37,242,Basic,No,1
+3,32,Female,Nigeria,Tablet,48,25,17,10,3,1075.58,113,Premium,No,0
+4,60,Female,Nigeria,Desktop,32,48,17,3,6,2061.61,318,Premium,Yes,0
+5,25,Male,Nigeria,Desktop,57,27,5,6,7,3523.12,23,Basic,Yes,0
+6,38,Male,Nigeria,Tablet,118,14,6,7,2,1095.09,46,Basic,No,0
+7,56,Male,Ghana,Tablet,100,48,19,10,8,1839.73,312,Premium,No,0
+8,36,Male,South Africa,Tablet,33,47,13,13,1,1960.68,135,Premium,Yes,0
+9,40,Male,Ghana,Tablet,24,36,25,14,7,4882.52,118,Basic,Yes,0
+10,28,Male,Kenya,Mobile,39,39,28,10,7,4773.79,189,Premium,Yes,0
+11,28,Male,Ghana,Tablet,34,16,26,0,3,4002.69,131,Basic,No,0
+12,41,Male,Ghana,Desktop,56,22,14,4,0,1215.88,212,Premium,Yes,1
+13,53,Female,Kenya,Desktop,28,21,22,14,0,349.51,113,Premium,Yes,0
+14,57,Female,Kenya,Mobile,37,21,4,2,1,1591.35,44,Premium,No,0
+15,41,Male,Kenya,Desktop,7,8,28,0,8,1341.3,128,Premium,No,0
+16,20,Male,Ghana,Desktop,68,49,7,11,1,2534.57,364,Premium,No,1
+17,39,Female,Ghana,Tablet,37,16,8,2,1,3890.86,158,Basic,Yes,0
+18,19,Male,Kenya,Desktop,56,31,25,13,5,4293.03,273,Basic,Yes,0
+19,41,Male,South Africa,Mobile,65,42,13,5,6,4225.87,315,Premium,No,0
+20,61,Male,South Africa,Tablet,65,10,27,13,6,1804.78,355,Premium,Yes,0
+21,47,Female,Nigeria,Tablet,47,32,6,6,8,3439.3,340,Premium,Yes,0
+22,55,Female,Kenya,Mobile,20,34,6,7,5,1571.04,45,Basic,Yes,0
+23,19,Female,Nigeria,Tablet,19,9,24,12,7,313.92,108,Basic,No,0
+24,38,Female,South Africa,Tablet,29,17,28,10,5,3510.81,219,Basic,No,0
+25,50,Female,Nigeria,Mobile,74,11,21,3,1,59.04,318,Basic,Yes,1
+26,29,Male,Kenya,Tablet,60,32,3,2,0,2051.82,315,Basic,Yes,1
+27,39,Female,Kenya,Mobile,18,10,28,4,4,1653.6,177,Basic,Yes,0
+28,61,Male,Kenya,Mobile,92,22,3,8,8,3469.95,228,Basic,Yes,0
+29,42,Male,Ghana,Desktop,35,17,13,12,7,3833.56,191,Basic,No,0
+30,44,Female,Nigeria,Desktop,43,4,22,5,3,1527.43,160,Premium,No,0
+31,59,Female,South Africa,Tablet,111,48,2,14,4,4060.02,267,Basic,Yes,0
+32,45,Male,South Africa,Tablet,95,47,16,8,4,1476.64,358,Basic,Yes,0
+33,33,Male,South Africa,Mobile,91,25,22,14,5,2237.17,326,Basic,No,0
+34,32,Male,Ghana,Tablet,11,21,29,5,2,3637.82,190,Basic,Yes,1
+35,64,Female,Ghana,Mobile,49,37,6,1,4,3467.67,175,Premium,No,0
+36,61,Female,Kenya,Mobile,113,38,8,12,1,4936.97,290,Basic,Yes,1
+37,20,Female,South Africa,Tablet,38,49,23,4,9,1133.55,357,Premium,No,0
+38,54,Female,Ghana,Mobile,64,1,8,11,0,3314.97,145,Premium,Yes,0
+39,24,Female,Kenya,Desktop,69,25,25,10,0,3052.31,232,Premium,Yes,1
+40,38,Male,South Africa,Tablet,8,36,6,8,9,4576.34,360,Basic,No,0
+41,26,Female,Nigeria,Desktop,34,17,14,7,6,790.25,204,Basic,No,0
+42,56,Male,Kenya,Tablet,48,41,3,6,1,3761.47,213,Basic,Yes,1
+43,35,Male,Ghana,Mobile,116,24,10,0,3,2845.66,40,Premium,Yes,0
+44,21,Male,Ghana,Tablet,56,2,3,3,4,1380.58,275,Premium,No,0
+45,42,Female,Kenya,Desktop,76,40,27,11,6,2377.43,323,Premium,No,0
+46,31,Female,Kenya,Mobile,102,15,12,6,1,1675.55,82,Premium,Yes,0
+47,26,Female,Ghana,Tablet,65,32,17,10,5,2900.77,181,Basic,Yes,0
+48,43,Male,Nigeria,Tablet,31,39,27,6,0,4446.11,320,Basic,No,1
+49,19,Male,South Africa,Tablet,4,6,29,14,6,2850.83,83,Basic,No,0
+50,37,Male,Nigeria,Desktop,113,1,5,5,8,3162.29,303,Premium,No,0
+51,45,Male,Kenya,Desktop,109,47,20,7,4,2598.55,262,Premium,No,0
+52,64,Male,Nigeria,Tablet,50,23,25,10,4,265.32,272,Basic,No,0
+53,24,Male,Ghana,Mobile,69,39,9,12,3,1171.96,200,Basic,Yes,0
+54,61,Female,Kenya,Mobile,30,17,21,5,2,2465.09,240,Premium,Yes,1
+55,25,Female,South Africa,Desktop,88,34,26,9,8,1558.07,180,Basic,No,0
+56,64,Female,Ghana,Mobile,59,41,20,2,4,917.0,171,Basic,Yes,0
+57,52,Female,Ghana,Desktop,67,29,7,3,7,2525.62,295,Premium,Yes,0
+58,31,Male,South Africa,Tablet,75,9,22,13,8,1620.82,177,Premium,No,0
+59,34,Male,South Africa,Desktop,45,13,4,2,4,1297.96,237,Premium,Yes,0
+60,53,Female,Nigeria,Desktop,4,6,13,0,9,2325.29,138,Basic,Yes,0
+61,57,Male,Kenya,Tablet,26,6,13,14,8,675.09,327,Premium,Yes,0
+62,21,Female,South Africa,Mobile,27,20,10,9,1,4639.45,311,Basic,No,1
+63,19,Female,South Africa,Desktop,46,3,18,4,8,4339.83,129,Basic,No,0
+64,23,Female,Kenya,Desktop,118,17,17,14,3,3541.03,49,Premium,Yes,0
+65,59,Male,South Africa,Tablet,107,49,20,0,5,540.01,164,Basic,Yes,0
+66,21,Female,South Africa,Mobile,64,12,20,0,5,3881.63,277,Premium,Yes,0
+67,46,Female,Nigeria,Desktop,91,48,13,1,5,4041.71,293,Premium,Yes,0
+68,35,Female,Ghana,Tablet,106,47,17,12,1,3841.15,116,Basic,Yes,0
+69,43,Male,Ghana,Desktop,51,45,22,3,6,578.69,24,Basic,Yes,0
+70,61,Male,Ghana,Tablet,50,1,4,5,5,3223.1,311,Premium,No,0
+71,51,Female,Ghana,Mobile,6,17,1,7,0,4173.28,25,Premium,Yes,0
+72,27,Male,South Africa,Mobile,59,3,1,12,1,2890.99,127,Premium,Yes,0
+73,53,Male,Kenya,Mobile,15,26,15,2,6,3235.57,234,Premium,No,0
+74,31,Male,Kenya,Mobile,117,15,13,0,0,2297.23,209,Premium,Yes,1
+75,48,Male,Nigeria,Desktop,30,36,17,2,0,2648.25,93,Premium,Yes,0
+76,32,Male,Nigeria,Desktop,42,32,24,11,0,181.54,94,Basic,Yes,0
+77,25,Male,South Africa,Mobile,101,32,26,2,7,3198.43,327,Basic,Yes,0
+78,31,Male,Kenya,Mobile,37,4,8,4,3,416.42,225,Basic,No,0
+79,40,Male,Kenya,Mobile,42,18,18,10,3,2180.72,280,Basic,Yes,0
+80,57,Male,Ghana,Desktop,101,49,27,11,1,1470.35,11,Premium,No,0
+81,38,Male,South Africa,Mobile,35,19,13,11,0,2731.69,329,Basic,Yes,1
+82,33,Female,South Africa,Mobile,87,43,23,3,9,675.75,12,Basic,Yes,0
+83,62,Female,Ghana,Mobile,6,35,14,12,8,3461.3,35,Premium,No,0
+84,35,Male,South Africa,Tablet,68,40,8,3,6,3977.11,228,Basic,Yes,0
+85,64,Female,South Africa,Mobile,18,14,8,8,3,825.14,220,Premium,No,0
+86,41,Female,Nigeria,Tablet,73,33,27,6,5,530.52,141,Premium,No,0
+87,43,Male,Kenya,Tablet,113,14,26,3,1,736.12,23,Premium,No,0
+88,42,Male,South Africa,Mobile,29,34,15,2,6,4386.87,83,Premium,Yes,0
+89,62,Male,Nigeria,Tablet,77,4,27,5,1,2645.66,229,Premium,Yes,1
+90,58,Female,Kenya,Mobile,59,24,13,2,9,2341.63,344,Basic,Yes,0
+91,46,Female,Ghana,Desktop,47,29,7,5,7,542.49,80,Basic,Yes,0
+92,32,Male,Nigeria,Desktop,116,19,5,10,7,3251.28,353,Basic,No,0
+93,62,Male,Nigeria,Desktop,17,6,17,12,0,4341.32,290,Premium,Yes,1
+94,18,Male,Kenya,Desktop,109,33,28,10,7,4142.65,331,Basic,Yes,0
+95,42,Female,Ghana,Tablet,96,49,25,12,1,3134.01,159,Basic,No,0
+96,24,Female,Nigeria,Mobile,112,40,29,12,5,385.64,128,Basic,No,0
+97,26,Female,South Africa,Mobile,22,19,16,11,0,570.86,190,Basic,Yes,1
+98,41,Female,South Africa,Mobile,68,1,23,8,4,256.05,31,Premium,No,0
+99,18,Male,South Africa,Desktop,69,5,2,5,6,1294.82,359,Basic,No,0
+100,61,Male,Ghana,Desktop,37,27,22,11,9,686.95,15,Premium,No,0
+101,25,Male,Nigeria,Mobile,105,16,18,3,0,1307.64,313,Premium,No,1
+102,41,Male,South Africa,Desktop,49,6,17,14,1,1931.44,75,Basic,No,0
+103,28,Female,Ghana,Mobile,13,40,7,4,6,4715.48,34,Premium,Yes,0
+104,34,Female,South Africa,Mobile,34,13,13,12,5,3055.78,359,Premium,Yes,0
+105,25,Male,Kenya,Mobile,109,48,18,5,2,4176.52,196,Premium,Yes,1
+106,52,Male,Nigeria,Mobile,86,35,29,10,9,3554.65,331,Premium,Yes,0
+107,52,Female,Nigeria,Mobile,53,19,14,2,1,571.39,29,Premium,Yes,0
+108,50,Male,Ghana,Mobile,87,12,18,7,9,3682.24,194,Premium,Yes,0
+109,22,Female,Ghana,Mobile,51,16,13,3,3,1382.74,16,Premium,Yes,0
+110,59,Male,Nigeria,Desktop,3,43,11,7,2,3199.15,77,Basic,No,0
+111,56,Male,South Africa,Mobile,42,10,21,9,6,1711.4,293,Basic,Yes,0
+112,58,Male,South Africa,Mobile,98,25,21,9,7,4988.38,81,Premium,Yes,0
+113,45,Male,Kenya,Desktop,32,20,16,2,1,1325.12,124,Premium,Yes,0
+114,24,Male,South Africa,Desktop,109,31,23,9,9,1402.86,19,Basic,No,0
+115,26,Male,Ghana,Desktop,51,4,17,6,6,4654.05,102,Basic,Yes,0
+116,25,Male,Ghana,Mobile,113,44,8,10,7,132.98,77,Basic,Yes,0
+117,29,Female,South Africa,Tablet,85,23,19,12,5,3486.48,229,Basic,No,0
+118,51,Female,Ghana,Tablet,46,2,20,11,5,3629.38,297,Premium,Yes,0
+119,50,Female,Nigeria,Desktop,108,22,15,8,9,4183.53,203,Premium,Yes,0
+120,40,Female,Nigeria,Tablet,21,37,9,3,0,4872.45,61,Basic,No,0
+121,41,Female,South Africa,Desktop,44,8,20,7,3,4878.25,26,Basic,Yes,0
+122,54,Male,Nigeria,Mobile,11,7,10,2,0,335.73,71,Basic,No,0
+123,52,Male,Nigeria,Tablet,103,14,12,6,3,4110.98,103,Basic,Yes,0
+124,61,Female,Kenya,Mobile,68,3,21,2,1,3235.09,326,Premium,Yes,1
+125,57,Male,Kenya,Tablet,115,16,23,11,4,3240.24,363,Basic,Yes,0
+126,39,Female,Nigeria,Mobile,1,19,20,14,9,650.47,157,Basic,No,0
+127,44,Female,South Africa,Tablet,92,18,1,14,8,3254.43,363,Basic,No,0
+128,52,Male,Kenya,Mobile,63,16,25,6,9,4912.59,359,Premium,No,0
+129,18,Male,Ghana,Mobile,24,8,20,13,2,4559.97,194,Premium,Yes,1
+130,52,Male,Ghana,Tablet,99,33,9,10,7,2201.26,275,Premium,Yes,0
+131,54,Female,Ghana,Mobile,13,49,22,9,2,209.34,324,Basic,No,1
+132,64,Male,South Africa,Mobile,111,12,15,9,5,1817.84,186,Basic,No,0
+133,31,Female,Nigeria,Mobile,98,11,1,10,3,4133.69,326,Basic,Yes,0
+134,20,Female,Ghana,Tablet,11,5,12,10,7,3510.48,113,Premium,Yes,0
+135,18,Female,South Africa,Tablet,100,27,3,5,5,2302.12,313,Premium,Yes,0
+136,22,Male,Kenya,Mobile,51,12,11,1,7,284.96,165,Basic,Yes,0
+137,43,Male,Nigeria,Mobile,17,17,2,10,0,2140.2,61,Basic,No,0
+138,31,Female,Kenya,Tablet,99,6,16,2,5,2350.43,92,Premium,Yes,0
+139,56,Male,South Africa,Tablet,82,33,9,5,0,4643.49,286,Basic,Yes,1
+140,44,Male,Ghana,Mobile,104,5,15,13,0,3209.02,153,Basic,Yes,0
+141,26,Male,Ghana,Mobile,86,28,12,3,7,1565.15,225,Basic,Yes,0
+142,32,Female,South Africa,Mobile,24,14,1,5,6,2631.34,127,Premium,Yes,0
+143,32,Female,Ghana,Desktop,19,5,13,0,2,339.62,193,Basic,Yes,1
+144,43,Male,Nigeria,Tablet,37,33,14,9,5,4863.12,115,Basic,Yes,0
+145,59,Female,South Africa,Desktop,103,48,25,11,8,1806.7,262,Basic,No,0
+146,30,Male,Kenya,Tablet,85,41,25,0,6,2394.56,18,Basic,No,0
+147,49,Male,South Africa,Tablet,8,19,8,2,2,1782.87,10,Premium,No,0
+148,56,Male,Nigeria,Tablet,28,22,8,7,5,3415.73,92,Premium,Yes,0
+149,49,Male,Nigeria,Tablet,5,5,27,7,3,3314.54,139,Premium,No,0
+150,21,Female,South Africa,Tablet,17,2,12,10,2,3579.46,333,Basic,Yes,1
+151,47,Female,South Africa,Tablet,101,30,1,3,8,1348.03,357,Premium,Yes,0
+152,54,Female,Ghana,Tablet,36,47,11,5,9,1585.19,340,Basic,Yes,0
+153,40,Male,Nigeria,Desktop,118,39,8,14,1,635.0,52,Premium,Yes,0
+154,56,Male,South Africa,Mobile,19,4,10,7,0,3280.99,195,Basic,No,1
+155,62,Male,South Africa,Mobile,64,33,19,6,1,208.59,206,Premium,Yes,1
+156,32,Female,Nigeria,Desktop,91,13,11,10,6,2992.43,287,Premium,Yes,0
+157,60,Male,South Africa,Desktop,117,20,7,6,9,4349.78,93,Premium,No,0
+158,46,Female,Ghana,Desktop,98,7,11,12,0,4455.25,309,Basic,No,1
+159,53,Female,Nigeria,Desktop,11,15,17,3,5,2250.7,145,Basic,No,0
+160,30,Female,Ghana,Tablet,54,23,1,8,6,2301.93,86,Basic,Yes,0
+161,49,Female,Ghana,Mobile,45,14,26,11,8,394.08,153,Premium,No,0
+162,24,Female,Ghana,Tablet,47,23,29,9,7,3357.12,2,Basic,Yes,0
+163,39,Female,Ghana,Mobile,12,19,21,5,5,4108.08,342,Basic,Yes,0
+164,45,Male,Nigeria,Mobile,118,29,21,13,2,1230.83,260,Basic,No,1
+165,19,Male,Ghana,Desktop,21,20,8,11,7,2112.29,164,Basic,No,0
+166,59,Female,Ghana,Tablet,118,29,23,10,6,4195.81,6,Basic,No,0
+167,62,Female,South Africa,Desktop,11,24,24,2,2,4386.83,149,Basic,Yes,0
+168,23,Male,Nigeria,Tablet,103,18,6,4,8,1223.47,205,Premium,Yes,0
+169,45,Female,Nigeria,Mobile,92,10,22,4,1,2757.35,118,Premium,Yes,0
+170,45,Female,Kenya,Desktop,5,41,18,13,2,970.54,89,Basic,Yes,0
+171,61,Male,Nigeria,Desktop,81,8,6,4,1,518.38,154,Premium,Yes,0
+172,61,Female,Nigeria,Mobile,56,26,5,7,0,4556.49,167,Premium,Yes,0
+173,37,Female,Kenya,Mobile,20,29,13,8,3,4104.33,161,Basic,No,0
+174,47,Female,Nigeria,Mobile,41,10,19,12,4,3802.57,270,Basic,Yes,0
+175,28,Male,Nigeria,Desktop,46,17,22,8,5,253.34,56,Premium,No,0
+176,45,Male,Nigeria,Tablet,12,2,8,12,4,4220.21,228,Basic,No,0
+177,42,Male,Nigeria,Desktop,70,6,9,5,0,2195.84,337,Premium,No,1
+178,56,Female,Kenya,Tablet,17,5,17,5,2,1718.55,149,Premium,No,0
+179,50,Female,Nigeria,Desktop,115,28,3,8,0,2736.92,46,Premium,No,0
+180,18,Male,Nigeria,Desktop,19,41,19,3,4,465.85,144,Basic,Yes,0
+181,44,Female,Kenya,Mobile,26,5,11,5,4,3785.67,238,Premium,Yes,0
+182,30,Female,South Africa,Tablet,48,18,24,3,5,2916.35,272,Basic,Yes,0
+183,58,Female,Ghana,Desktop,108,26,17,10,7,941.08,120,Basic,Yes,0
+184,20,Female,South Africa,Desktop,108,20,21,0,9,949.28,340,Basic,No,0
+185,56,Female,Kenya,Mobile,52,41,19,6,0,929.4,220,Basic,No,1
+186,23,Male,Ghana,Mobile,96,49,2,13,3,294.44,8,Basic,No,0
+187,25,Female,Kenya,Tablet,70,27,8,9,9,2943.11,344,Premium,Yes,0
+188,44,Male,Kenya,Desktop,55,49,19,10,0,4203.34,275,Basic,Yes,1
+189,26,Female,Nigeria,Tablet,100,12,7,11,8,97.32,353,Basic,Yes,0
+190,54,Male,Ghana,Desktop,102,7,28,5,6,254.53,66,Basic,Yes,0
+191,50,Female,Nigeria,Tablet,75,3,27,8,6,2868.12,79,Basic,No,0
+192,59,Male,Ghana,Mobile,33,10,17,6,4,4099.28,86,Basic,No,0
+193,61,Female,Kenya,Desktop,62,34,6,12,6,1640.43,124,Premium,Yes,0
+194,41,Male,Kenya,Tablet,88,25,19,6,1,1754.58,202,Basic,Yes,1
+195,32,Female,South Africa,Mobile,23,35,24,1,3,2985.77,150,Basic,No,0
+196,49,Male,Ghana,Mobile,15,16,6,11,6,1378.32,46,Premium,No,0
+197,49,Female,Nigeria,Tablet,27,2,28,10,2,142.78,113,Basic,No,0
+198,41,Male,South Africa,Desktop,75,24,2,14,1,3678.79,91,Premium,No,0
+199,58,Male,South Africa,Desktop,64,10,6,8,9,3131.99,141,Premium,Yes,0
+200,29,Female,South Africa,Mobile,115,38,23,9,1,2907.97,289,Premium,No,1
+201,56,Female,Nigeria,Desktop,114,22,5,8,0,3711.0,218,Premium,No,1
+202,19,Male,South Africa,Desktop,81,26,19,5,4,3379.4,77,Basic,No,0
+203,20,Female,Nigeria,Desktop,51,43,20,12,5,1037.35,334,Basic,No,0
+204,54,Male,South Africa,Mobile,53,39,4,2,5,1768.88,152,Premium,Yes,0
+205,34,Male,Nigeria,Tablet,78,27,22,0,8,639.29,323,Premium,Yes,0
+206,19,Male,Kenya,Desktop,91,29,26,3,3,657.99,239,Basic,Yes,0
+207,19,Female,Kenya,Mobile,82,47,17,13,0,3384.22,115,Premium,Yes,0
+208,45,Male,Kenya,Mobile,92,38,11,13,5,4294.41,319,Premium,Yes,0
+209,40,Male,Kenya,Tablet,51,20,4,2,4,4814.04,94,Premium,Yes,0
+210,54,Female,Kenya,Desktop,47,27,26,13,9,3145.45,48,Basic,No,0
+211,49,Female,South Africa,Desktop,111,41,13,11,5,928.67,191,Premium,No,0
+212,50,Female,South Africa,Tablet,4,20,20,0,2,537.2,12,Basic,No,0
+213,18,Female,South Africa,Tablet,7,44,26,2,1,4066.13,156,Basic,No,0
+214,36,Male,Nigeria,Mobile,109,19,17,13,5,2897.99,172,Basic,Yes,0
+215,19,Male,Nigeria,Mobile,35,20,9,13,0,3095.24,296,Premium,No,1
+216,61,Male,Nigeria,Tablet,48,35,4,3,6,3909.5,177,Premium,Yes,0
+217,43,Male,Nigeria,Desktop,73,47,23,12,6,3519.35,341,Basic,No,0
+218,49,Female,Kenya,Mobile,72,2,28,12,9,4173.95,57,Basic,No,0
+219,23,Male,Kenya,Mobile,116,30,14,14,6,290.51,343,Basic,No,0
+220,49,Male,Kenya,Desktop,45,34,19,13,9,3740.13,340,Premium,Yes,0
+221,21,Female,Ghana,Mobile,81,22,26,7,0,4255.76,203,Premium,No,1
+222,28,Male,South Africa,Desktop,81,3,28,8,3,1437.81,185,Basic,Yes,0
+223,34,Male,Nigeria,Desktop,113,6,3,2,6,3205.83,121,Basic,Yes,0
+224,55,Male,Nigeria,Desktop,97,15,14,5,8,1577.67,226,Premium,No,0
+225,41,Male,Kenya,Tablet,96,27,8,9,4,4790.28,202,Basic,Yes,0
+226,22,Male,Nigeria,Tablet,72,10,24,10,1,176.78,330,Premium,Yes,1
+227,51,Male,Nigeria,Tablet,19,9,27,14,6,2903.17,363,Premium,No,0
+228,23,Female,South Africa,Desktop,63,33,28,4,9,840.85,356,Basic,No,0
+229,39,Female,Kenya,Desktop,38,32,1,5,0,3563.98,216,Basic,No,1
+230,28,Male,South Africa,Tablet,67,48,10,3,6,887.69,43,Premium,No,0
+231,33,Male,Ghana,Mobile,59,6,18,9,5,1184.56,23,Premium,No,0
+232,50,Female,Ghana,Desktop,69,41,16,5,6,2476.91,155,Premium,No,0
+233,26,Male,Ghana,Mobile,13,36,8,6,9,4575.03,186,Premium,Yes,0
+234,23,Male,Kenya,Mobile,47,2,1,8,2,1066.45,249,Premium,No,1
+235,33,Male,Nigeria,Desktop,110,29,12,9,2,729.76,237,Basic,No,1
+236,46,Female,Kenya,Desktop,61,4,8,6,6,3797.29,293,Premium,Yes,0
+237,20,Male,Kenya,Mobile,31,1,24,5,1,2508.09,134,Premium,No,0
+238,37,Female,Nigeria,Mobile,119,19,16,0,0,4559.81,321,Premium,Yes,1
+239,53,Male,South Africa,Tablet,80,26,18,1,8,741.61,22,Basic,No,0
+240,36,Female,Ghana,Tablet,114,25,4,0,8,3233.18,361,Basic,No,0
+241,43,Female,South Africa,Desktop,96,10,6,8,6,1172.07,88,Premium,Yes,0
+242,20,Male,Ghana,Tablet,22,15,12,9,6,792.23,153,Premium,No,0
+243,36,Female,Kenya,Tablet,93,22,27,9,2,3420.31,125,Basic,Yes,0
+244,37,Male,Ghana,Tablet,86,48,9,8,9,2972.49,79,Basic,No,0
+245,49,Female,Kenya,Tablet,43,21,15,6,1,3776.59,346,Basic,No,1
+246,24,Male,South Africa,Mobile,67,22,16,12,6,1554.22,51,Basic,Yes,0
+247,58,Male,Kenya,Desktop,54,36,24,1,8,2245.38,216,Premium,No,0
+248,50,Female,South Africa,Tablet,10,34,12,5,0,2033.3,176,Basic,No,0
+249,57,Male,Nigeria,Mobile,42,30,24,10,3,4920.61,358,Premium,Yes,0
+250,56,Male,Nigeria,Mobile,64,25,23,3,5,1468.32,253,Premium,No,0
+251,35,Female,Nigeria,Mobile,21,45,14,0,6,1481.14,246,Basic,Yes,0
+252,57,Male,Kenya,Tablet,80,28,13,0,9,1779.2,227,Basic,No,0
+253,18,Male,Nigeria,Tablet,76,1,25,11,6,2827.32,106,Basic,Yes,0
+254,28,Female,Ghana,Desktop,66,49,2,4,9,1269.09,193,Basic,No,0
+255,45,Female,South Africa,Tablet,41,45,3,11,1,4577.3,316,Premium,Yes,1
+256,42,Male,South Africa,Tablet,24,4,26,1,3,1335.77,302,Premium,Yes,0
+257,40,Male,Ghana,Mobile,35,7,24,3,4,4480.12,36,Premium,No,0
+258,48,Female,Kenya,Desktop,56,49,22,0,0,526.34,204,Basic,No,1
+259,47,Female,Kenya,Tablet,30,9,10,3,0,3286.25,267,Premium,Yes,1
+260,59,Male,South Africa,Tablet,57,36,9,10,9,4535.86,268,Basic,No,0
+261,52,Female,Nigeria,Mobile,94,19,26,5,2,852.06,170,Premium,Yes,0
+262,24,Male,Kenya,Mobile,47,1,20,9,9,4841.95,39,Basic,No,0
+263,33,Male,Kenya,Tablet,35,10,8,3,2,2269.89,139,Premium,No,0
+264,43,Male,Ghana,Desktop,19,36,10,0,7,4729.12,292,Premium,Yes,0
+265,19,Male,Ghana,Desktop,114,9,19,6,8,3387.33,52,Basic,Yes,0
+266,18,Male,Nigeria,Mobile,8,45,3,13,0,1514.92,287,Premium,No,1
+267,29,Female,Kenya,Mobile,26,46,24,1,1,949.63,289,Premium,No,1
+268,22,Female,Kenya,Tablet,113,42,5,8,9,1525.64,141,Basic,No,0
+269,54,Female,Ghana,Mobile,104,32,3,12,1,474.16,146,Basic,No,0
+270,49,Female,Kenya,Tablet,71,32,26,2,3,727.9,314,Basic,No,0
+271,26,Male,South Africa,Desktop,30,6,27,7,1,532.26,184,Basic,Yes,1
+272,58,Male,Ghana,Desktop,7,48,16,12,6,2120.49,152,Basic,No,0
+273,52,Male,Nigeria,Tablet,67,38,17,7,8,3979.94,201,Premium,No,0
+274,36,Male,Ghana,Mobile,65,17,15,2,6,715.5,128,Basic,Yes,0
+275,33,Female,Kenya,Desktop,36,10,3,3,5,660.3,287,Premium,Yes,0
+276,20,Male,Nigeria,Mobile,25,27,12,1,9,3220.71,311,Premium,Yes,0
+277,37,Male,Ghana,Desktop,37,35,9,3,0,993.94,253,Basic,No,1
+278,41,Female,South Africa,Tablet,1,21,21,10,9,497.07,266,Premium,Yes,0
+279,50,Female,South Africa,Tablet,15,25,12,10,8,842.57,188,Premium,Yes,0
+280,41,Female,Ghana,Tablet,37,28,26,10,4,4619.42,230,Basic,Yes,0
+281,28,Female,South Africa,Desktop,13,47,15,13,4,4109.14,271,Premium,Yes,0
+282,25,Male,South Africa,Mobile,104,15,2,8,5,1776.78,259,Basic,No,0
+283,53,Male,South Africa,Mobile,8,4,23,1,8,3282.55,299,Basic,No,0
+284,55,Female,Nigeria,Mobile,5,29,18,11,7,2691.01,198,Basic,No,0
+285,57,Male,South Africa,Desktop,60,9,20,11,7,3388.85,323,Premium,Yes,0
+286,37,Male,South Africa,Desktop,73,27,12,12,7,3416.53,56,Premium,Yes,0
+287,52,Male,South Africa,Desktop,1,26,23,2,0,3147.38,319,Premium,Yes,1
+288,42,Female,Nigeria,Desktop,36,19,4,14,0,1337.85,203,Premium,Yes,1
+289,52,Male,Ghana,Desktop,35,28,23,10,7,204.64,271,Basic,Yes,0
+290,42,Female,Kenya,Mobile,66,17,16,10,4,2283.28,109,Premium,Yes,0
+291,46,Male,South Africa,Desktop,63,43,23,14,8,4455.96,116,Basic,No,0
+292,35,Male,Ghana,Desktop,104,41,16,3,1,2851.79,92,Premium,No,0
+293,63,Male,South Africa,Mobile,23,42,1,4,8,4163.63,138,Premium,Yes,0
+294,35,Female,Nigeria,Desktop,9,20,22,0,7,4958.21,303,Premium,No,0
+295,19,Male,Ghana,Mobile,34,45,25,6,8,826.44,57,Premium,Yes,0
+296,52,Female,Nigeria,Mobile,46,40,2,13,3,3461.97,50,Premium,Yes,0
+297,33,Female,South Africa,Tablet,78,39,3,9,0,3374.72,71,Basic,No,0
+298,58,Female,South Africa,Tablet,4,49,26,6,0,4899.98,82,Premium,Yes,0
+299,53,Male,Nigeria,Tablet,30,23,21,8,4,4928.15,105,Premium,No,0
+300,50,Male,Kenya,Tablet,95,47,25,3,1,3436.53,88,Premium,Yes,0
+301,21,Male,Nigeria,Desktop,102,32,20,13,7,1225.64,2,Premium,Yes,0
+302,50,Male,South Africa,Tablet,75,47,17,13,9,3994.79,360,Basic,No,0
+303,31,Female,Nigeria,Mobile,99,33,20,5,4,544.08,84,Premium,Yes,0
+304,38,Female,Kenya,Desktop,72,46,22,10,4,3905.69,43,Basic,Yes,0
+305,37,Female,Nigeria,Tablet,3,5,21,1,1,4551.88,154,Premium,Yes,0
+306,25,Male,Kenya,Mobile,14,43,29,11,6,1920.34,327,Basic,No,0
+307,24,Female,Kenya,Desktop,60,48,1,11,7,3156.87,94,Basic,Yes,0
+308,20,Male,Nigeria,Desktop,77,34,20,13,9,2156.41,298,Basic,Yes,0
+309,34,Female,Nigeria,Tablet,45,40,6,3,0,2194.45,133,Basic,Yes,0
+310,50,Male,Ghana,Desktop,96,11,29,1,1,1558.75,65,Basic,No,0
+311,29,Male,South Africa,Mobile,34,3,15,9,9,3813.03,290,Premium,No,0
+312,39,Female,Kenya,Desktop,45,33,26,4,3,4681.52,257,Basic,No,0
+313,39,Female,Ghana,Mobile,61,11,26,14,4,4704.35,213,Premium,No,0
+314,63,Female,Nigeria,Desktop,83,16,14,6,1,882.16,148,Basic,No,0
+315,47,Female,South Africa,Tablet,102,18,20,12,0,4374.97,61,Basic,Yes,0
+316,55,Male,Ghana,Mobile,16,30,15,0,8,3689.78,149,Premium,No,0
+317,55,Female,Kenya,Desktop,66,48,14,14,0,1271.66,88,Basic,No,0
+318,62,Female,Ghana,Desktop,40,10,25,9,3,345.75,324,Basic,Yes,0
+319,25,Female,Kenya,Desktop,17,18,21,9,1,1347.31,278,Basic,No,1
+320,44,Male,Nigeria,Mobile,119,38,24,6,3,4561.92,82,Basic,Yes,0
+321,44,Male,South Africa,Mobile,34,19,25,9,7,3169.56,129,Premium,No,0
+322,51,Female,South Africa,Mobile,106,36,26,12,7,3608.06,286,Basic,Yes,0
+323,38,Male,South Africa,Tablet,16,13,5,5,8,1293.19,353,Basic,Yes,0
+324,47,Female,Nigeria,Tablet,102,46,6,5,4,3599.75,280,Premium,No,0
+325,50,Male,Kenya,Mobile,60,3,17,11,6,150.33,270,Premium,No,0
+326,45,Male,Nigeria,Desktop,66,10,11,7,2,1882.85,292,Basic,Yes,1
+327,64,Male,South Africa,Tablet,66,38,16,7,9,3137.5,203,Basic,Yes,0
+328,50,Male,Nigeria,Mobile,90,1,12,5,3,739.02,24,Premium,Yes,0
+329,22,Female,Nigeria,Desktop,13,27,15,2,9,4116.79,351,Basic,Yes,0
+330,36,Female,Nigeria,Tablet,56,46,23,4,8,1182.81,311,Premium,Yes,0
+331,21,Female,Kenya,Desktop,111,8,4,1,9,3264.88,208,Basic,Yes,0
+332,52,Male,Ghana,Desktop,31,46,27,14,9,2031.93,280,Premium,Yes,0
+333,34,Female,Ghana,Desktop,34,42,18,13,0,2984.26,205,Premium,No,1
+334,61,Female,Nigeria,Desktop,39,17,21,4,1,546.18,152,Premium,Yes,0
+335,45,Female,Ghana,Tablet,67,9,28,13,4,94.39,26,Basic,No,0
+336,47,Male,Ghana,Tablet,8,6,3,8,2,4548.73,194,Basic,No,1
+337,46,Male,Nigeria,Tablet,87,43,22,9,1,1355.45,336,Basic,Yes,1
+338,63,Male,Nigeria,Mobile,78,25,8,0,0,4100.19,238,Basic,Yes,1
+339,23,Female,South Africa,Tablet,55,39,23,9,9,4996.76,321,Premium,No,0
+340,52,Female,Ghana,Desktop,27,49,3,4,2,1065.04,75,Premium,Yes,0
+341,58,Female,Kenya,Tablet,118,28,8,11,0,1333.2,163,Premium,Yes,0
+342,54,Male,Nigeria,Desktop,93,33,18,5,0,3317.67,299,Basic,No,1
+343,41,Male,South Africa,Mobile,103,37,10,13,0,4827.59,29,Basic,No,0
+344,46,Female,Kenya,Desktop,53,9,25,10,7,4579.91,165,Basic,No,0
+345,63,Male,Ghana,Desktop,39,18,20,6,2,2519.35,337,Premium,Yes,1
+346,48,Male,South Africa,Desktop,65,21,17,8,0,3977.6,186,Basic,Yes,1
+347,52,Male,Nigeria,Mobile,17,2,8,5,6,687.37,54,Basic,No,0
+348,50,Male,Kenya,Tablet,105,43,23,4,9,4887.42,295,Premium,Yes,0
+349,38,Female,Nigeria,Tablet,30,38,11,11,2,4822.12,42,Premium,No,0
+350,49,Male,Ghana,Mobile,53,40,29,6,7,827.01,285,Basic,Yes,0
+351,40,Male,Kenya,Desktop,13,36,5,12,3,1504.12,138,Premium,No,0
+352,50,Male,Ghana,Tablet,21,43,26,0,3,509.77,187,Basic,Yes,0
+353,20,Male,Ghana,Mobile,19,37,13,10,4,1365.87,204,Premium,No,0
+354,35,Female,South Africa,Tablet,53,15,21,13,5,4081.62,42,Premium,Yes,0
+355,42,Female,Nigeria,Mobile,19,28,23,4,6,1897.79,350,Premium,Yes,0
+356,59,Male,Kenya,Desktop,57,18,5,14,3,451.1,288,Basic,No,0
+357,48,Male,Ghana,Tablet,25,34,24,1,7,1717.71,26,Basic,Yes,0
+358,20,Male,Ghana,Mobile,86,22,27,3,5,4907.1,56,Basic,Yes,0
+359,57,Male,Kenya,Tablet,31,11,13,6,0,3152.12,253,Premium,No,1
+360,63,Male,Ghana,Tablet,81,13,6,4,0,2086.64,122,Premium,Yes,0
+361,41,Male,South Africa,Tablet,55,4,29,11,8,841.03,106,Premium,Yes,0
+362,49,Female,South Africa,Tablet,23,22,5,5,9,4931.02,130,Premium,Yes,0
+363,64,Male,South Africa,Mobile,32,7,9,1,5,4106.04,337,Basic,No,0
+364,39,Female,South Africa,Desktop,62,43,27,2,9,1414.57,158,Basic,No,0
+365,40,Female,Ghana,Mobile,74,24,16,6,7,359.64,231,Basic,No,0
+366,19,Male,Kenya,Mobile,10,4,2,10,6,292.56,308,Premium,No,0
+367,44,Female,Kenya,Mobile,100,28,1,1,5,610.69,91,Premium,No,0
+368,59,Female,Kenya,Desktop,72,15,8,11,3,2908.04,22,Basic,Yes,0
+369,19,Female,Kenya,Tablet,54,1,28,5,6,4644.53,290,Premium,Yes,0
+370,43,Female,Nigeria,Tablet,52,3,19,4,8,2488.75,110,Basic,No,0
+371,34,Female,Kenya,Tablet,20,14,11,9,9,4216.3,49,Premium,Yes,0
+372,57,Female,Nigeria,Desktop,32,38,28,0,9,2234.97,129,Premium,Yes,0
+373,50,Male,Nigeria,Tablet,114,1,12,11,6,3545.83,73,Basic,Yes,0
+374,26,Female,South Africa,Desktop,14,38,12,10,0,3662.04,340,Basic,Yes,1
+375,60,Female,Nigeria,Tablet,50,38,7,14,9,878.08,53,Premium,No,0
+376,56,Female,Ghana,Tablet,28,21,26,9,8,1812.47,356,Basic,No,0
+377,46,Male,Nigeria,Mobile,110,48,13,10,3,3190.14,168,Basic,Yes,0
+378,59,Female,South Africa,Desktop,116,29,27,3,2,362.78,45,Premium,Yes,0
+379,43,Male,Nigeria,Mobile,53,5,8,10,3,1814.09,105,Premium,No,0
+380,52,Female,Ghana,Mobile,24,49,29,1,3,2678.65,150,Premium,Yes,0
+381,42,Male,Ghana,Mobile,79,10,29,3,9,4981.16,146,Basic,Yes,0
+382,41,Male,Ghana,Desktop,22,28,22,0,1,2377.92,204,Premium,Yes,1
+383,30,Female,South Africa,Desktop,30,21,28,1,0,4082.12,362,Premium,No,1
+384,24,Female,South Africa,Tablet,63,7,26,12,9,2166.02,299,Premium,No,0
+385,53,Male,Kenya,Mobile,4,3,9,7,0,3983.99,167,Premium,Yes,0
+386,62,Female,South Africa,Tablet,77,45,7,5,7,2981.12,201,Premium,Yes,0
+387,37,Male,Ghana,Mobile,59,47,26,1,1,4434.11,134,Basic,Yes,0
+388,18,Male,Ghana,Desktop,87,20,21,11,9,2060.6,211,Premium,Yes,0
+389,25,Male,South Africa,Desktop,8,19,24,14,4,3025.48,48,Premium,Yes,0
+390,63,Male,Nigeria,Desktop,82,35,15,5,3,3153.79,126,Basic,Yes,0
+391,33,Male,South Africa,Mobile,12,4,2,9,7,2092.74,239,Premium,No,0
+392,31,Female,South Africa,Desktop,119,5,23,8,1,730.12,7,Premium,No,0
+393,29,Male,Ghana,Mobile,31,1,20,6,9,476.86,272,Basic,Yes,0
+394,40,Male,Kenya,Tablet,78,4,25,8,8,93.19,37,Premium,No,0
+395,32,Female,Ghana,Mobile,34,12,12,4,6,4368.94,211,Basic,Yes,0
+396,45,Male,Kenya,Tablet,82,27,1,6,6,1190.01,165,Premium,Yes,0
+397,51,Female,Ghana,Mobile,98,42,23,10,0,1065.42,125,Basic,No,0
+398,19,Female,South Africa,Tablet,75,23,22,14,1,3682.82,337,Basic,No,1
+399,49,Female,Ghana,Desktop,105,25,8,13,3,1606.88,192,Premium,Yes,0
+400,40,Male,Ghana,Tablet,76,21,5,6,3,2535.16,218,Basic,Yes,0
+401,39,Male,Ghana,Desktop,49,24,15,11,2,820.93,214,Basic,No,1
+402,42,Male,South Africa,Desktop,79,25,1,11,6,4799.13,62,Premium,No,0
+403,39,Female,South Africa,Tablet,57,45,1,2,7,4259.39,328,Premium,Yes,0
+404,39,Male,South Africa,Mobile,95,46,25,6,1,4320.31,161,Basic,Yes,0
+405,59,Female,South Africa,Mobile,113,32,10,0,3,2039.8,66,Premium,Yes,0
+406,23,Male,Kenya,Mobile,93,32,22,8,2,3814.18,286,Basic,No,1
+407,32,Female,Kenya,Mobile,26,5,10,9,1,727.94,239,Basic,Yes,1
+408,60,Male,Nigeria,Mobile,18,36,21,12,5,53.01,20,Premium,No,0
+409,54,Male,South Africa,Desktop,96,46,15,5,3,109.66,188,Premium,Yes,0
+410,50,Male,Kenya,Mobile,86,42,17,4,5,2937.14,82,Basic,No,0
+411,25,Female,Ghana,Desktop,38,49,22,6,1,2282.42,363,Premium,No,1
+412,61,Female,South Africa,Desktop,81,42,6,4,3,2594.9,202,Premium,No,0
+413,61,Male,Nigeria,Desktop,87,39,3,9,5,47.24,132,Basic,No,0
+414,22,Male,Nigeria,Tablet,88,16,13,4,4,2119.21,37,Basic,Yes,0
+415,56,Female,Nigeria,Tablet,50,33,16,10,2,3593.16,132,Basic,No,0
+416,21,Female,Ghana,Desktop,8,49,8,9,7,2219.04,77,Basic,No,0
+417,23,Female,Kenya,Tablet,41,21,15,10,6,3663.77,89,Basic,No,0
+418,62,Male,Ghana,Mobile,6,9,17,6,2,1172.76,253,Basic,Yes,1
+419,49,Female,South Africa,Mobile,69,6,17,9,5,4067.58,344,Premium,Yes,0
+420,47,Male,Nigeria,Desktop,44,45,22,14,3,2946.27,194,Basic,Yes,0
+421,64,Female,Ghana,Mobile,64,35,26,6,4,1061.71,176,Premium,Yes,0
+422,52,Male,Ghana,Desktop,29,39,13,12,4,1191.24,33,Premium,Yes,0
+423,57,Female,Kenya,Desktop,28,22,17,10,6,3143.87,58,Basic,Yes,0
+424,33,Female,Kenya,Mobile,11,41,6,14,4,4151.4,201,Premium,No,0
+425,30,Female,Nigeria,Tablet,65,5,17,2,2,2083.98,28,Basic,No,0
+426,59,Female,Ghana,Mobile,107,42,16,2,9,1298.92,35,Premium,No,0
+427,47,Female,Ghana,Mobile,19,23,14,9,4,4336.39,125,Basic,Yes,0
+428,36,Male,Kenya,Desktop,9,17,13,11,6,3349.65,321,Basic,No,0
+429,34,Female,Ghana,Desktop,27,12,6,12,4,2245.95,42,Basic,No,0
+430,36,Female,Ghana,Desktop,34,23,3,14,4,2444.62,85,Basic,Yes,0
+431,45,Female,Ghana,Desktop,44,16,14,2,8,1029.24,188,Premium,No,0
+432,43,Male,Kenya,Tablet,68,3,14,5,2,3137.75,111,Premium,Yes,0
+433,54,Female,Nigeria,Tablet,100,30,15,11,5,1800.13,271,Premium,No,0
+434,43,Male,South Africa,Tablet,82,22,8,14,0,4978.27,325,Premium,Yes,1
+435,40,Female,Nigeria,Desktop,15,9,29,5,9,2406.12,105,Premium,Yes,0
+436,26,Female,South Africa,Desktop,51,29,15,12,4,2434.57,320,Basic,Yes,0
+437,29,Male,Ghana,Desktop,13,47,22,12,7,2833.6,41,Basic,No,0
+438,18,Female,Nigeria,Tablet,83,37,29,2,4,4584.61,215,Basic,No,0
+439,18,Male,South Africa,Desktop,49,23,27,2,8,4006.08,71,Basic,Yes,0
+440,64,Male,Kenya,Mobile,70,13,13,7,5,2261.14,56,Basic,Yes,0
+441,51,Female,Kenya,Mobile,112,32,17,7,7,3596.31,236,Premium,No,0
+442,49,Male,Nigeria,Desktop,56,46,21,6,9,2935.32,281,Basic,No,0
+443,42,Female,Nigeria,Mobile,76,47,24,9,7,2466.91,105,Basic,Yes,0
+444,57,Female,Ghana,Mobile,51,48,3,3,2,969.66,162,Premium,No,0
+445,62,Male,Nigeria,Tablet,37,23,28,14,6,2325.04,191,Premium,No,0
+446,18,Male,Ghana,Desktop,17,45,6,3,6,1236.63,9,Basic,No,0
+447,33,Male,Ghana,Desktop,58,17,5,2,9,4575.06,60,Basic,Yes,0
+448,56,Male,Kenya,Tablet,87,40,22,4,5,1683.68,305,Premium,Yes,0
+449,22,Female,Kenya,Mobile,90,21,26,2,6,4761.8,225,Basic,No,0
+450,39,Female,South Africa,Mobile,29,2,17,12,1,2669.95,307,Basic,Yes,1
+451,46,Male,Kenya,Desktop,33,37,23,7,8,3161.41,188,Basic,No,0
+452,20,Female,Kenya,Mobile,60,6,25,6,9,2719.27,70,Premium,No,0
+453,29,Female,Nigeria,Tablet,91,44,2,12,9,655.61,293,Basic,Yes,0
+454,43,Female,Kenya,Tablet,89,18,26,2,0,1885.35,287,Basic,Yes,1
+455,33,Female,South Africa,Desktop,55,30,15,8,0,504.74,169,Premium,Yes,0
+456,54,Male,Nigeria,Tablet,10,22,5,11,2,3118.54,62,Premium,No,0
+457,39,Male,South Africa,Tablet,47,33,26,13,2,2239.9,349,Premium,No,1
+458,46,Female,Kenya,Desktop,23,30,20,12,0,3892.15,14,Basic,Yes,0
+459,31,Male,South Africa,Tablet,85,17,6,4,6,1110.15,164,Premium,Yes,0
+460,45,Male,Nigeria,Tablet,21,43,6,8,3,831.18,245,Basic,Yes,0
+461,22,Male,Ghana,Tablet,107,32,27,6,9,2037.6,335,Premium,No,0
+462,64,Female,South Africa,Mobile,13,42,18,14,1,4633.66,8,Basic,No,0
+463,47,Female,South Africa,Desktop,101,14,18,6,9,3555.0,154,Premium,No,0
+464,63,Female,Nigeria,Desktop,33,10,4,5,4,2100.43,36,Basic,Yes,0
+465,22,Male,Nigeria,Desktop,24,47,17,1,5,2591.19,48,Basic,Yes,0
+466,29,Female,South Africa,Mobile,108,36,25,8,8,430.22,85,Premium,No,0
+467,33,Female,Kenya,Mobile,11,34,14,5,3,4923.03,28,Premium,Yes,0
+468,43,Male,South Africa,Desktop,17,9,14,7,1,3335.37,196,Basic,Yes,1
+469,43,Female,Nigeria,Mobile,68,42,13,0,4,1434.17,208,Premium,Yes,0
+470,38,Female,Ghana,Desktop,47,28,7,4,2,2933.18,204,Basic,Yes,1
+471,56,Male,Ghana,Mobile,25,11,12,11,1,556.32,307,Premium,No,1
+472,53,Male,Kenya,Tablet,94,14,23,0,0,4829.52,104,Premium,Yes,0
+473,50,Male,South Africa,Tablet,73,39,15,9,9,882.18,230,Basic,No,0
+474,47,Female,Ghana,Desktop,21,47,19,10,1,3243.67,101,Premium,No,0
+475,54,Female,South Africa,Mobile,84,19,11,13,5,1234.82,29,Premium,Yes,0
+476,40,Female,Nigeria,Mobile,83,15,15,7,7,3590.63,127,Basic,No,0
+477,27,Male,Ghana,Tablet,83,28,12,7,2,3886.34,338,Basic,No,1
+478,22,Male,Kenya,Tablet,12,24,3,0,8,3370.36,10,Premium,Yes,0
+479,53,Female,Nigeria,Mobile,37,8,17,8,8,3076.35,106,Basic,No,0
+480,51,Female,Kenya,Mobile,42,43,3,1,1,4463.42,167,Premium,No,0
+481,48,Male,Nigeria,Mobile,17,9,19,11,7,402.35,257,Premium,No,0
+482,27,Male,Ghana,Mobile,101,47,20,8,9,1661.26,295,Basic,No,0
+483,36,Male,Kenya,Mobile,118,33,4,0,4,1248.95,277,Basic,No,0
+484,49,Male,Kenya,Mobile,48,33,3,11,3,4940.19,65,Basic,No,0
+485,18,Female,Nigeria,Desktop,103,19,26,9,9,1953.06,271,Basic,No,0
+486,22,Male,Kenya,Mobile,28,3,16,13,4,3665.74,188,Basic,No,0
+487,62,Female,Nigeria,Tablet,41,10,12,13,3,3426.78,317,Basic,Yes,0
+488,21,Female,Nigeria,Desktop,99,40,8,8,7,1068.29,138,Premium,Yes,0
+489,33,Female,Nigeria,Mobile,47,47,24,3,3,1202.6,343,Premium,Yes,0
+490,41,Male,Nigeria,Tablet,112,42,29,8,9,1413.61,105,Basic,No,0
+491,33,Male,Ghana,Desktop,18,1,29,6,5,2061.53,34,Premium,No,0
+492,19,Male,Nigeria,Tablet,78,29,17,10,1,1179.28,110,Premium,No,0
+493,45,Male,South Africa,Mobile,99,34,7,5,4,108.06,33,Premium,Yes,0
+494,49,Female,Kenya,Mobile,108,13,11,14,5,4398.17,354,Premium,Yes,0
+495,44,Male,South Africa,Mobile,105,1,18,4,4,4828.39,231,Basic,Yes,0
+496,37,Male,Ghana,Mobile,71,34,1,10,1,1714.44,317,Premium,No,1
+497,41,Female,South Africa,Desktop,105,29,3,8,6,1699.15,266,Premium,Yes,0
+498,29,Male,Kenya,Desktop,13,48,4,1,3,45.39,182,Basic,Yes,0
+499,52,Female,South Africa,Tablet,82,47,13,13,7,3404.45,340,Basic,No,0
+500,50,Female,Ghana,Mobile,101,13,6,12,6,4128.95,65,Basic,Yes,0
+501,50,Female,Nigeria,Tablet,13,48,26,10,6,741.58,333,Basic,No,0
+502,60,Female,South Africa,Desktop,100,49,14,13,8,806.74,1,Premium,Yes,0
+503,54,Female,Ghana,Mobile,31,29,5,11,0,3952.52,133,Basic,No,0
+504,29,Female,Ghana,Mobile,2,39,16,1,9,3085.29,80,Premium,No,0
+505,20,Female,Kenya,Desktop,16,24,15,10,5,233.85,271,Premium,No,0
+506,18,Female,Kenya,Desktop,9,26,15,11,5,3116.51,241,Basic,No,0
+507,50,Male,South Africa,Desktop,73,17,4,14,5,1551.5,28,Basic,No,0
+508,57,Male,Nigeria,Desktop,38,7,8,8,5,1849.94,223,Basic,Yes,0
+509,27,Male,Ghana,Desktop,75,13,27,11,9,3850.96,23,Basic,No,0
+510,60,Male,South Africa,Mobile,54,5,16,2,6,4056.57,109,Basic,No,0
+511,61,Female,Ghana,Desktop,56,26,28,7,9,2007.78,107,Basic,No,0
+512,46,Male,Ghana,Mobile,86,49,16,10,5,4736.29,145,Premium,No,0
+513,30,Female,Nigeria,Mobile,97,3,4,14,0,2038.25,354,Premium,Yes,1
+514,29,Male,Nigeria,Desktop,100,7,13,8,2,3861.46,139,Premium,No,0
+515,48,Male,South Africa,Desktop,109,49,26,7,1,2424.55,284,Premium,Yes,1
+516,63,Male,Nigeria,Mobile,87,39,28,3,5,4488.69,298,Basic,No,0
+517,19,Female,Nigeria,Desktop,45,1,13,11,7,4539.73,99,Basic,No,0
+518,52,Male,South Africa,Desktop,109,49,2,0,2,446.21,317,Premium,Yes,1
+519,40,Female,Nigeria,Desktop,34,17,3,3,9,4683.1,123,Premium,Yes,0
+520,34,Female,Kenya,Tablet,9,43,22,13,7,4129.42,320,Premium,Yes,0
+521,43,Male,Ghana,Mobile,88,25,8,8,7,3958.64,287,Basic,No,0
+522,25,Male,Ghana,Tablet,8,3,24,1,4,1012.55,81,Basic,Yes,0
+523,46,Male,Ghana,Desktop,7,15,15,2,7,4027.54,10,Basic,No,0
+524,43,Female,Ghana,Tablet,36,29,11,9,5,4252.16,8,Premium,Yes,0
+525,27,Male,South Africa,Desktop,18,43,9,7,4,1452.86,205,Premium,Yes,0
+526,43,Female,Ghana,Tablet,3,32,7,5,8,4761.78,315,Basic,No,0
+527,51,Female,Ghana,Desktop,28,26,13,7,6,258.8,197,Basic,Yes,0
+528,58,Male,Ghana,Tablet,70,16,2,6,7,758.05,198,Premium,Yes,0
+529,24,Male,Ghana,Tablet,108,25,8,13,0,2692.53,30,Premium,No,0
+530,21,Female,Kenya,Tablet,44,28,7,12,1,2883.2,20,Basic,No,0
+531,62,Female,Ghana,Mobile,21,9,24,12,7,3229.3,48,Premium,No,0
+532,28,Female,Kenya,Tablet,28,1,12,4,8,94.68,130,Basic,Yes,0
+533,46,Male,South Africa,Mobile,104,29,19,8,3,4802.23,293,Basic,Yes,0
+534,53,Female,Nigeria,Desktop,54,22,7,3,9,232.49,132,Premium,Yes,0
+535,42,Male,Ghana,Tablet,54,16,10,5,9,723.88,356,Premium,Yes,0
+536,38,Female,Nigeria,Desktop,65,41,29,1,8,79.93,54,Premium,Yes,0
+537,53,Female,Nigeria,Desktop,100,44,25,14,3,2838.62,281,Basic,No,0
+538,27,Male,South Africa,Tablet,21,41,16,1,9,4662.01,265,Premium,Yes,0
+539,54,Female,Nigeria,Mobile,107,7,3,1,9,3333.08,215,Premium,No,0
+540,26,Male,Kenya,Tablet,99,14,10,9,9,4115.06,290,Basic,Yes,0
+541,41,Male,Nigeria,Desktop,13,29,6,6,8,76.27,43,Basic,No,0
+542,52,Female,Nigeria,Desktop,57,19,18,12,6,2714.66,74,Premium,Yes,0
+543,52,Male,Nigeria,Tablet,49,19,18,1,1,2303.22,350,Basic,Yes,1
+544,53,Male,Ghana,Mobile,118,2,5,14,8,2499.85,278,Basic,No,0
+545,35,Female,Ghana,Mobile,54,41,21,14,3,370.34,326,Basic,Yes,0
+546,56,Male,Kenya,Desktop,10,45,29,11,7,3425.33,242,Premium,No,0
+547,49,Male,Kenya,Desktop,53,15,7,14,6,2521.07,130,Premium,Yes,0
+548,41,Male,Ghana,Mobile,44,3,28,12,6,3828.09,350,Basic,Yes,0
+549,40,Female,Kenya,Tablet,47,11,2,1,7,2431.6,194,Basic,No,0
+550,49,Male,Ghana,Desktop,53,46,11,14,0,755.41,32,Basic,Yes,0
+551,54,Female,South Africa,Mobile,74,30,13,8,4,3244.8,106,Premium,No,0
+552,29,Female,Nigeria,Desktop,46,40,23,6,1,870.21,204,Basic,Yes,1
+553,30,Male,Nigeria,Tablet,13,18,5,10,1,4363.25,1,Basic,Yes,0
+554,40,Male,Kenya,Mobile,37,48,6,2,0,3069.45,245,Premium,Yes,1
+555,42,Male,Ghana,Desktop,102,2,24,2,4,794.45,72,Basic,Yes,0
+556,52,Female,Ghana,Tablet,24,32,26,6,1,4812.07,306,Premium,Yes,1
+557,58,Male,Kenya,Desktop,2,8,29,4,3,2596.64,15,Premium,Yes,0
+558,47,Male,Ghana,Tablet,86,22,14,9,2,373.76,53,Premium,Yes,0
+559,34,Male,South Africa,Tablet,81,6,12,13,2,3137.9,8,Basic,No,0
+560,37,Male,Nigeria,Mobile,100,12,4,13,1,1273.46,330,Basic,Yes,1
+561,42,Male,Kenya,Tablet,14,47,29,5,5,4020.43,46,Premium,Yes,0
+562,39,Female,Kenya,Desktop,10,40,23,12,1,4090.93,325,Basic,Yes,1
+563,30,Female,Ghana,Tablet,35,36,6,11,7,4894.95,114,Premium,No,0
+564,36,Male,Kenya,Tablet,25,15,10,7,7,2514.33,147,Basic,No,0
+565,53,Male,South Africa,Mobile,3,28,18,8,4,2280.23,166,Premium,Yes,0
+566,29,Male,Ghana,Tablet,111,49,15,0,9,3769.84,139,Premium,Yes,0
+567,58,Male,Ghana,Tablet,102,45,8,2,6,671.03,117,Basic,Yes,0
+568,36,Female,Ghana,Desktop,17,18,26,10,3,2739.11,299,Basic,No,0
+569,29,Male,Ghana,Mobile,12,2,9,6,0,2735.78,276,Basic,Yes,1
+570,26,Female,South Africa,Mobile,54,13,5,5,1,456.47,277,Basic,No,1
+571,24,Female,Ghana,Mobile,116,45,10,6,9,2095.74,338,Premium,Yes,0
+572,45,Male,Kenya,Tablet,24,15,20,7,9,4267.89,313,Premium,No,0
+573,31,Female,South Africa,Mobile,29,20,6,5,3,4282.21,178,Basic,No,0
+574,48,Female,Nigeria,Tablet,43,29,16,2,0,505.2,330,Basic,Yes,1
+575,36,Female,Nigeria,Tablet,25,42,24,1,7,462.7,354,Premium,Yes,0
+576,64,Female,Kenya,Desktop,100,29,27,11,8,1320.85,154,Basic,Yes,0
+577,33,Male,Kenya,Desktop,60,3,3,6,3,4375.08,201,Basic,Yes,0
+578,22,Male,South Africa,Desktop,90,19,10,11,9,653.22,115,Basic,Yes,0
+579,52,Female,Nigeria,Desktop,102,3,11,11,2,3602.78,159,Basic,Yes,0
+580,29,Male,Nigeria,Desktop,65,14,11,11,1,514.82,42,Premium,Yes,0
+581,42,Male,Nigeria,Tablet,84,40,17,10,4,3119.46,247,Premium,No,0
+582,38,Male,Nigeria,Tablet,119,4,4,0,2,1786.78,68,Basic,Yes,0
+583,53,Male,Nigeria,Mobile,28,11,4,2,9,3946.68,326,Premium,Yes,0
+584,40,Male,Ghana,Tablet,16,31,17,11,6,1176.12,334,Basic,No,0
+585,33,Female,Kenya,Tablet,47,43,9,10,5,3199.62,196,Basic,Yes,0
+586,56,Male,Ghana,Desktop,81,32,19,3,0,1186.06,90,Basic,Yes,0
+587,62,Male,Nigeria,Tablet,104,27,5,12,7,3571.16,111,Premium,Yes,0
+588,59,Male,South Africa,Desktop,92,30,22,13,1,4369.65,359,Premium,Yes,1
+589,56,Male,South Africa,Mobile,58,43,24,0,4,642.74,145,Premium,No,0
+590,31,Female,Nigeria,Mobile,76,2,6,4,8,4334.31,275,Premium,No,0
+591,48,Female,Nigeria,Tablet,27,49,3,9,7,2971.94,179,Premium,Yes,0
+592,22,Female,South Africa,Mobile,118,9,22,2,1,644.28,241,Basic,Yes,1
+593,52,Female,Ghana,Tablet,53,28,1,1,8,2143.43,326,Basic,No,0
+594,40,Male,Ghana,Mobile,42,31,20,14,4,812.69,319,Premium,Yes,0
+595,46,Female,Nigeria,Desktop,59,34,22,2,9,3504.74,331,Premium,No,0
+596,60,Male,Ghana,Desktop,47,15,16,7,5,3796.75,153,Premium,No,0
+597,28,Male,South Africa,Desktop,94,48,23,5,2,537.92,104,Basic,No,0
+598,35,Male,Ghana,Desktop,105,25,11,12,2,2535.64,75,Premium,Yes,0
+599,64,Male,Nigeria,Tablet,34,36,13,13,9,4074.98,128,Basic,Yes,0
+600,29,Male,South Africa,Mobile,37,8,27,6,7,4681.45,199,Basic,Yes,0
+601,26,Female,Ghana,Tablet,6,9,10,11,9,2572.45,154,Premium,No,0
+602,27,Female,Kenya,Desktop,7,37,3,5,9,4751.89,56,Basic,Yes,0
+603,61,Female,South Africa,Tablet,96,48,9,5,1,2683.09,278,Basic,Yes,1
+604,34,Female,South Africa,Mobile,96,45,28,11,1,1977.01,345,Premium,No,1
+605,55,Male,Kenya,Tablet,117,39,12,2,4,4242.53,19,Basic,Yes,0
+606,24,Female,Kenya,Mobile,25,32,23,11,5,2469.98,159,Premium,Yes,0
+607,63,Male,South Africa,Tablet,33,17,14,12,1,2364.79,26,Basic,Yes,0
+608,30,Female,Kenya,Mobile,55,35,1,13,4,2456.66,169,Premium,No,0
+609,57,Male,Nigeria,Mobile,58,37,18,7,6,4235.46,23,Premium,Yes,0
+610,59,Male,Nigeria,Desktop,7,19,17,11,9,4161.39,47,Basic,No,0
+611,26,Female,Nigeria,Mobile,116,44,27,6,9,2023.56,13,Premium,No,0
+612,44,Male,South Africa,Desktop,57,29,9,6,7,1673.17,217,Basic,No,0
+613,19,Male,Kenya,Desktop,12,7,9,5,6,2464.72,322,Basic,Yes,0
+614,22,Female,Kenya,Desktop,16,28,23,4,7,2868.13,194,Premium,Yes,0
+615,46,Male,Ghana,Tablet,80,9,10,9,8,1199.3,144,Basic,Yes,0
+616,54,Female,Ghana,Tablet,43,28,19,7,4,3971.84,73,Premium,No,0
+617,55,Female,Kenya,Tablet,117,6,29,4,4,2437.55,156,Basic,No,0
+618,36,Female,Kenya,Tablet,100,29,15,8,9,1676.89,77,Basic,Yes,0
+619,25,Male,Kenya,Mobile,77,17,5,8,3,543.04,169,Premium,No,0
+620,62,Male,South Africa,Mobile,7,16,15,0,8,1201.84,287,Basic,Yes,0
+621,18,Male,Kenya,Tablet,100,23,20,5,4,4746.91,85,Basic,Yes,0
+622,39,Female,Ghana,Mobile,111,31,23,6,1,1532.45,182,Basic,Yes,1
+623,34,Male,South Africa,Mobile,51,3,25,2,9,852.61,315,Basic,Yes,0
+624,24,Female,Kenya,Desktop,73,21,28,6,7,2308.76,297,Basic,Yes,0
+625,42,Female,Ghana,Desktop,32,26,2,10,6,1542.37,112,Basic,Yes,0
+626,62,Male,South Africa,Desktop,75,36,13,10,7,185.44,230,Basic,Yes,0
+627,21,Female,Kenya,Desktop,8,42,24,6,2,1622.49,96,Basic,No,0
+628,53,Male,Kenya,Mobile,97,37,16,13,3,2725.1,168,Premium,Yes,0
+629,23,Male,Kenya,Tablet,87,22,15,12,4,2763.04,156,Basic,No,0
+630,48,Male,South Africa,Mobile,89,42,25,10,5,1789.23,105,Basic,No,0
+631,36,Male,Ghana,Mobile,72,12,10,1,0,2242.04,193,Premium,Yes,1
+632,61,Male,Ghana,Mobile,45,42,14,6,3,4827.93,330,Premium,No,0
+633,56,Female,Nigeria,Desktop,86,13,10,14,9,1892.97,132,Premium,No,0
+634,44,Female,Kenya,Desktop,59,11,25,0,4,1298.55,355,Basic,No,0
+635,27,Female,Nigeria,Desktop,4,16,14,4,6,1224.9,138,Premium,Yes,0
+636,43,Male,Nigeria,Tablet,104,8,26,8,4,2294.25,331,Premium,Yes,0
+637,36,Male,Ghana,Mobile,67,40,23,6,0,3800.01,270,Basic,Yes,1
+638,56,Male,South Africa,Tablet,29,40,9,6,6,1037.88,38,Basic,Yes,0
+639,20,Female,South Africa,Desktop,105,45,25,10,7,3549.39,45,Premium,Yes,0
+640,62,Male,Ghana,Tablet,29,2,14,12,6,115.54,163,Premium,No,0
+641,30,Female,South Africa,Mobile,98,30,3,11,3,2100.48,331,Basic,No,0
+642,45,Female,Nigeria,Mobile,98,30,20,1,7,3881.57,253,Basic,Yes,0
+643,37,Male,Kenya,Desktop,28,12,16,7,4,1700.28,169,Basic,No,0
+644,45,Male,Ghana,Desktop,77,10,2,2,9,2823.05,285,Basic,No,0
+645,25,Female,Kenya,Tablet,79,44,10,14,8,1032.85,274,Basic,No,0
+646,58,Male,South Africa,Desktop,87,11,3,7,9,3712.56,20,Premium,No,0
+647,56,Female,Kenya,Desktop,44,15,11,2,4,270.87,239,Basic,Yes,0
+648,18,Male,South Africa,Mobile,90,16,11,9,0,4264.19,270,Basic,Yes,1
+649,20,Male,South Africa,Desktop,4,17,21,6,8,999.0,310,Basic,Yes,0
+650,30,Female,Nigeria,Desktop,90,26,21,1,4,4373.25,31,Basic,No,0
+651,45,Male,South Africa,Mobile,104,2,22,3,5,1769.12,314,Basic,No,0
+652,42,Female,Nigeria,Mobile,9,12,13,10,3,3616.19,104,Premium,Yes,0
+653,50,Male,Nigeria,Tablet,119,26,7,5,5,1602.93,170,Basic,Yes,0
+654,55,Female,Nigeria,Desktop,5,23,23,10,7,4530.5,186,Premium,No,0
+655,23,Female,Ghana,Mobile,56,18,17,8,2,641.92,128,Basic,Yes,0
+656,61,Male,Ghana,Tablet,96,32,2,4,4,900.81,210,Premium,Yes,0
+657,62,Female,South Africa,Tablet,84,49,12,12,1,2470.22,281,Premium,No,1
+658,49,Male,Nigeria,Desktop,50,38,25,8,1,418.87,253,Basic,No,1
+659,62,Male,Ghana,Desktop,75,47,10,14,6,987.94,19,Basic,Yes,0
+660,64,Male,Nigeria,Tablet,15,3,18,4,9,4719.39,200,Basic,No,0
+661,38,Female,Kenya,Mobile,32,38,22,9,9,4882.68,220,Basic,Yes,0
+662,33,Female,Kenya,Tablet,28,3,27,7,9,1887.53,136,Basic,No,0
+663,38,Male,Kenya,Desktop,22,30,11,12,5,4617.2,223,Premium,No,0
+664,28,Male,South Africa,Mobile,105,1,16,12,3,2728.68,3,Basic,Yes,0
+665,54,Female,Nigeria,Mobile,17,30,17,0,4,1356.01,236,Basic,No,0
+666,53,Male,Kenya,Tablet,59,45,19,6,0,3514.97,342,Premium,Yes,1
+667,52,Male,Ghana,Desktop,90,32,18,3,6,3297.92,228,Basic,No,0
+668,36,Female,Kenya,Tablet,108,28,3,4,7,4945.74,142,Premium,Yes,0
+669,37,Male,Kenya,Tablet,71,21,21,5,8,1332.59,9,Basic,No,0
+670,35,Female,Kenya,Tablet,106,46,27,4,7,3363.58,190,Premium,No,0
+671,64,Male,South Africa,Mobile,57,13,26,11,4,269.6,350,Basic,Yes,0
+672,58,Female,Ghana,Mobile,26,27,16,0,2,577.09,165,Premium,No,0
+673,31,Male,Nigeria,Desktop,25,36,6,11,9,29.55,139,Premium,Yes,0
+674,32,Male,Ghana,Desktop,10,7,25,8,8,4997.31,276,Basic,No,0
+675,48,Female,Nigeria,Tablet,45,22,12,1,5,4013.35,291,Basic,No,0
+676,18,Male,South Africa,Tablet,83,10,11,8,4,3935.75,53,Basic,Yes,0
+677,20,Female,South Africa,Tablet,11,39,15,9,2,2553.53,175,Premium,No,0
+678,33,Male,South Africa,Desktop,77,15,15,1,5,1507.33,110,Premium,No,0
+679,40,Female,South Africa,Mobile,53,15,16,8,2,764.81,203,Premium,Yes,1
+680,28,Female,Nigeria,Mobile,72,4,10,5,9,1430.53,136,Basic,No,0
+681,29,Female,Kenya,Tablet,104,32,12,10,5,1886.1,4,Basic,Yes,0
+682,27,Female,Nigeria,Tablet,68,23,28,8,3,3783.99,155,Premium,Yes,0
+683,49,Male,Ghana,Tablet,111,6,13,12,1,2702.91,172,Basic,Yes,0
+684,33,Male,South Africa,Tablet,95,24,4,5,7,396.64,358,Premium,No,0
+685,25,Female,South Africa,Desktop,28,20,7,5,3,99.96,47,Basic,No,0
+686,55,Female,Ghana,Mobile,75,37,22,12,8,520.64,94,Basic,Yes,0
+687,29,Female,Nigeria,Tablet,107,20,2,10,6,2058.39,48,Premium,No,0
+688,41,Male,Kenya,Desktop,65,12,26,13,1,4666.63,240,Basic,Yes,1
+689,45,Male,Kenya,Tablet,49,33,27,1,3,3190.64,347,Basic,No,0
+690,25,Male,Ghana,Tablet,47,28,27,7,4,4011.11,213,Basic,Yes,0
+691,45,Male,Kenya,Mobile,52,8,27,2,2,2337.21,340,Basic,Yes,1
+692,53,Female,Nigeria,Tablet,102,1,15,6,8,1814.71,324,Basic,No,0
+693,43,Female,Nigeria,Mobile,88,37,8,4,4,550.92,139,Premium,Yes,0
+694,25,Female,Ghana,Mobile,54,22,7,2,1,4380.91,205,Basic,Yes,1
+695,45,Male,Nigeria,Mobile,60,6,15,0,2,3917.97,73,Premium,No,0
+696,45,Male,South Africa,Desktop,57,21,23,7,8,848.91,4,Basic,Yes,0
+697,54,Male,Ghana,Desktop,47,32,14,2,6,2566.18,76,Basic,Yes,0
+698,58,Female,Nigeria,Mobile,31,35,8,1,1,2442.0,329,Premium,No,1
+699,53,Female,Ghana,Tablet,105,15,28,0,8,3129.21,77,Premium,Yes,0
+700,44,Male,Kenya,Mobile,46,5,12,3,3,4731.47,304,Basic,Yes,0
+701,34,Female,Nigeria,Tablet,114,46,13,12,8,2903.06,256,Basic,Yes,0
+702,26,Male,South Africa,Mobile,26,48,11,7,1,2705.68,102,Premium,Yes,0
+703,50,Male,Nigeria,Tablet,113,6,17,12,9,261.11,106,Premium,Yes,0
+704,37,Female,Ghana,Desktop,114,25,29,2,3,323.91,333,Premium,Yes,0
+705,30,Male,Ghana,Tablet,5,46,17,13,4,944.86,39,Premium,Yes,0
+706,45,Female,Nigeria,Mobile,84,40,24,0,1,172.03,314,Basic,Yes,1
+707,46,Male,South Africa,Desktop,52,29,4,3,9,3719.33,275,Basic,No,0
+708,30,Female,South Africa,Tablet,105,7,21,8,0,3619.42,88,Basic,Yes,0
+709,63,Female,South Africa,Tablet,75,40,8,12,6,688.92,211,Basic,Yes,0
+710,52,Female,Ghana,Tablet,54,13,5,0,9,4182.03,77,Basic,No,0
+711,23,Male,Nigeria,Tablet,33,38,26,11,0,782.38,77,Premium,Yes,0
+712,35,Male,Kenya,Tablet,50,18,16,13,7,1512.87,28,Premium,Yes,0
+713,22,Female,Ghana,Desktop,38,2,4,10,2,1252.39,245,Premium,Yes,1
+714,64,Female,South Africa,Desktop,27,8,28,1,9,1867.81,66,Basic,Yes,0
+715,42,Male,Nigeria,Desktop,98,11,22,8,5,1280.77,266,Premium,Yes,0
+716,19,Male,South Africa,Desktop,15,33,29,1,6,2449.87,205,Basic,Yes,0
+717,27,Male,Kenya,Mobile,96,38,15,12,9,2042.97,58,Basic,No,0
+718,47,Female,South Africa,Desktop,61,48,12,2,0,4932.98,201,Basic,No,1
+719,62,Male,South Africa,Tablet,21,27,5,6,5,289.07,225,Premium,No,0
+720,22,Male,Kenya,Tablet,46,20,23,2,6,719.49,142,Basic,No,0
+721,50,Female,Nigeria,Desktop,69,12,16,8,5,273.6,84,Basic,No,0
+722,18,Male,Ghana,Tablet,6,43,14,5,3,3132.95,143,Premium,Yes,0
+723,35,Male,Nigeria,Desktop,38,31,10,2,0,282.0,352,Basic,Yes,1
+724,49,Male,Kenya,Tablet,62,27,7,8,8,4183.83,33,Premium,Yes,0
+725,64,Female,South Africa,Mobile,86,32,13,0,3,2564.57,152,Basic,Yes,0
+726,28,Female,Nigeria,Mobile,62,10,20,9,6,2639.77,158,Premium,Yes,0
+727,38,Female,Ghana,Desktop,82,3,28,2,6,2812.36,141,Basic,No,0
+728,43,Female,Kenya,Desktop,78,45,29,0,1,862.36,251,Basic,No,1
+729,42,Female,Nigeria,Desktop,74,27,5,1,0,996.47,303,Premium,Yes,1
+730,39,Female,Ghana,Tablet,46,35,29,11,7,1600.9,112,Basic,Yes,0
+731,44,Female,Kenya,Desktop,13,31,3,7,7,2971.55,144,Premium,Yes,0
+732,30,Male,Ghana,Mobile,95,15,15,6,6,1058.49,209,Basic,No,0
+733,50,Male,Kenya,Tablet,94,16,4,1,7,590.5,224,Premium,No,0
+734,51,Female,South Africa,Desktop,3,13,15,1,2,4850.88,43,Basic,Yes,0
+735,58,Male,Nigeria,Tablet,94,49,14,8,1,119.69,264,Basic,No,1
+736,52,Male,Ghana,Tablet,6,35,20,12,6,4015.46,244,Basic,Yes,0
+737,18,Female,Kenya,Desktop,93,11,19,12,7,3942.3,3,Premium,No,0
+738,38,Male,Ghana,Tablet,8,21,13,5,0,1493.1,125,Premium,No,0
+739,23,Male,Ghana,Mobile,44,11,10,4,9,686.78,268,Premium,Yes,0
+740,45,Male,Nigeria,Mobile,109,30,21,9,8,736.69,84,Premium,No,0
+741,34,Male,South Africa,Tablet,107,48,5,5,3,3490.18,16,Premium,No,0
+742,22,Male,Ghana,Desktop,108,35,27,8,3,3217.6,334,Basic,Yes,0
+743,48,Female,Kenya,Tablet,33,22,23,10,2,3915.9,59,Basic,No,0
+744,22,Female,Kenya,Mobile,81,38,20,6,5,4688.03,177,Basic,Yes,0
+745,55,Female,South Africa,Tablet,112,31,29,14,0,3462.72,63,Basic,No,0
+746,20,Male,Kenya,Tablet,75,14,20,9,5,787.7,49,Basic,Yes,0
+747,40,Female,South Africa,Mobile,77,24,25,9,1,1224.78,307,Premium,Yes,1
+748,54,Male,Kenya,Tablet,50,49,6,13,8,4212.55,246,Basic,No,0
+749,54,Male,Nigeria,Tablet,11,32,4,8,1,1054.44,289,Premium,No,1
+750,27,Male,Ghana,Desktop,95,36,2,3,6,371.89,286,Basic,Yes,0
+751,27,Male,Nigeria,Desktop,28,32,22,1,0,3519.37,332,Premium,No,1
+752,36,Female,Ghana,Mobile,108,15,16,11,6,2018.61,15,Premium,No,0
+753,34,Female,Ghana,Mobile,70,43,18,7,4,4601.0,338,Premium,No,0
+754,38,Male,Ghana,Mobile,41,35,5,3,7,3254.77,255,Basic,Yes,0
+755,31,Female,Nigeria,Desktop,16,3,22,12,3,461.19,92,Basic,Yes,0
+756,26,Male,Ghana,Mobile,68,16,4,8,9,4739.8,279,Basic,Yes,0
+757,63,Female,Nigeria,Mobile,99,5,13,14,6,1300.2,206,Basic,No,0
+758,18,Female,South Africa,Mobile,48,21,19,14,5,1692.69,94,Premium,No,0
+759,62,Male,Kenya,Desktop,56,10,23,3,4,2017.28,225,Premium,Yes,0
+760,30,Female,Kenya,Tablet,64,19,2,14,3,265.61,301,Premium,Yes,0
+761,21,Male,Ghana,Mobile,59,25,13,7,6,2487.61,318,Premium,No,0
+762,18,Female,Nigeria,Tablet,90,4,11,8,4,625.36,199,Basic,No,0
+763,57,Male,Kenya,Mobile,62,29,22,12,4,2010.84,271,Premium,No,0
+764,49,Male,Nigeria,Tablet,76,19,29,8,0,1760.04,234,Basic,No,1
+765,51,Female,Nigeria,Desktop,11,43,4,9,1,3866.47,46,Premium,Yes,0
+766,45,Female,Ghana,Desktop,101,2,22,3,4,4017.82,64,Premium,No,0
+767,48,Male,Kenya,Mobile,89,10,20,0,2,775.53,230,Premium,No,1
+768,25,Female,Ghana,Tablet,18,43,20,14,1,1839.09,249,Basic,Yes,1
+769,56,Female,Ghana,Desktop,19,25,15,2,3,1873.03,246,Basic,Yes,0
+770,43,Male,Kenya,Mobile,87,20,4,8,3,765.54,75,Premium,No,0
+771,51,Male,Kenya,Mobile,55,48,9,3,3,3994.28,157,Premium,Yes,0
+772,20,Female,South Africa,Desktop,102,19,7,4,3,3539.07,223,Premium,No,0
+773,29,Male,South Africa,Desktop,118,23,19,6,2,960.01,190,Basic,No,1
+774,18,Male,Nigeria,Mobile,82,24,19,4,6,1839.94,52,Basic,Yes,0
+775,61,Male,Kenya,Tablet,26,11,6,3,8,537.97,88,Basic,Yes,0
+776,22,Female,South Africa,Tablet,6,46,6,14,4,3144.75,313,Premium,No,0
+777,47,Female,Nigeria,Tablet,4,34,20,1,3,615.65,339,Basic,Yes,0
+778,47,Male,Nigeria,Mobile,108,28,15,14,1,4929.81,66,Premium,No,0
+779,34,Female,Nigeria,Desktop,115,5,15,1,1,3905.6,150,Basic,No,0
+780,64,Male,South Africa,Mobile,29,5,25,12,4,1957.29,20,Premium,No,0
+781,40,Female,Kenya,Desktop,59,21,20,12,6,2897.03,33,Premium,Yes,0
+782,32,Male,Ghana,Tablet,98,12,9,3,9,4557.6,328,Basic,No,0
+783,54,Male,Nigeria,Tablet,17,4,4,9,9,2774.96,281,Premium,No,0
+784,38,Female,South Africa,Desktop,107,49,18,12,8,880.75,46,Premium,No,0
+785,31,Male,South Africa,Desktop,43,42,18,9,6,1899.73,73,Premium,Yes,0
+786,19,Female,Ghana,Mobile,117,20,5,12,4,4217.29,354,Basic,No,0
+787,28,Female,Ghana,Tablet,80,38,20,14,9,3224.62,313,Premium,No,0
+788,56,Male,South Africa,Mobile,66,25,23,8,9,3257.11,343,Basic,No,0
+789,55,Male,Kenya,Mobile,34,14,11,7,9,4335.44,133,Basic,Yes,0
+790,51,Female,Ghana,Mobile,119,11,5,2,5,4470.93,55,Premium,No,0
+791,55,Male,South Africa,Tablet,8,32,22,14,2,4599.76,61,Basic,No,0
+792,51,Male,Ghana,Mobile,13,11,26,13,4,483.3,345,Premium,Yes,0
+793,35,Male,Kenya,Mobile,106,18,4,8,7,2725.19,8,Basic,Yes,0
+794,47,Male,Nigeria,Mobile,8,27,29,13,0,3705.14,272,Premium,No,1
+795,32,Male,Ghana,Mobile,94,18,12,4,0,3787.06,246,Basic,No,1
+796,44,Female,Kenya,Mobile,96,23,2,10,6,3037.51,176,Premium,No,0
+797,51,Female,South Africa,Mobile,100,11,13,2,4,842.27,116,Premium,Yes,0
+798,55,Male,Ghana,Tablet,111,21,10,4,4,3989.13,317,Premium,Yes,0
+799,50,Male,Ghana,Mobile,94,44,9,12,0,3603.36,271,Premium,No,1
+800,41,Male,South Africa,Desktop,65,5,10,9,8,439.82,193,Basic,Yes,0
+801,32,Female,Nigeria,Mobile,43,23,7,12,0,2324.41,150,Basic,No,0
+802,47,Male,South Africa,Mobile,39,41,4,3,4,878.15,131,Premium,No,0
+803,59,Female,Ghana,Tablet,81,25,19,7,9,1694.01,102,Basic,Yes,0
+804,34,Female,South Africa,Tablet,59,41,10,12,8,100.22,310,Premium,No,0
+805,22,Female,Kenya,Desktop,84,10,3,11,3,2007.65,270,Premium,Yes,0
+806,46,Male,South Africa,Desktop,88,22,25,4,7,2753.89,292,Basic,Yes,0
+807,21,Female,Ghana,Tablet,114,19,21,9,5,3101.72,210,Basic,No,0
+808,27,Male,South Africa,Tablet,86,1,29,11,2,3320.82,361,Premium,Yes,1
+809,34,Female,Nigeria,Mobile,93,7,19,7,3,4183.09,338,Basic,No,0
+810,27,Male,South Africa,Tablet,86,4,21,8,1,1085.16,67,Premium,Yes,0
+811,34,Female,Nigeria,Desktop,44,1,2,3,0,611.2,10,Basic,No,0
+812,37,Male,Kenya,Mobile,9,15,27,6,7,4259.17,49,Basic,No,0
+813,41,Female,Nigeria,Desktop,37,40,20,1,0,791.5,111,Basic,No,0
+814,22,Male,South Africa,Mobile,74,12,10,5,0,4874.05,321,Basic,Yes,1
+815,51,Male,Ghana,Tablet,36,22,2,7,3,4214.27,219,Basic,No,0
+816,23,Male,Nigeria,Desktop,101,22,2,11,9,2509.37,57,Premium,Yes,0
+817,19,Male,Kenya,Mobile,92,47,28,6,9,4907.29,283,Basic,Yes,0
+818,30,Female,Nigeria,Mobile,28,17,24,6,5,495.91,113,Basic,Yes,0
+819,60,Female,Nigeria,Tablet,42,29,17,7,8,1522.3,133,Premium,Yes,0
+820,60,Male,Nigeria,Tablet,43,46,16,6,0,3194.74,71,Premium,Yes,0
+821,28,Female,Kenya,Tablet,85,14,16,4,6,1756.53,83,Premium,No,0
+822,64,Male,South Africa,Desktop,88,20,14,6,9,4642.58,57,Basic,Yes,0
+823,40,Male,Nigeria,Mobile,42,48,7,12,4,337.47,349,Basic,No,0
+824,33,Female,Nigeria,Tablet,104,33,21,13,7,2751.57,271,Premium,No,0
+825,48,Male,Ghana,Desktop,66,43,11,9,6,2958.42,111,Premium,Yes,0
+826,28,Male,Kenya,Desktop,55,15,24,2,3,3267.11,357,Premium,No,0
+827,33,Female,Nigeria,Desktop,72,12,1,4,3,1285.77,76,Premium,No,0
+828,25,Male,Kenya,Tablet,48,40,11,6,5,1829.19,158,Basic,Yes,0
+829,21,Male,Nigeria,Tablet,91,20,23,14,5,4219.97,20,Basic,No,0
+830,57,Male,South Africa,Mobile,22,30,21,8,8,982.76,131,Basic,Yes,0
+831,21,Male,South Africa,Mobile,101,38,4,14,4,4136.07,329,Basic,Yes,0
+832,42,Female,Nigeria,Tablet,27,3,7,1,7,2817.65,122,Basic,Yes,0
+833,20,Female,South Africa,Desktop,93,28,26,3,4,3813.32,41,Premium,No,0
+834,49,Female,Nigeria,Desktop,67,26,15,11,1,3570.9,167,Basic,No,0
+835,20,Male,South Africa,Desktop,108,30,18,6,5,1045.48,130,Premium,No,0
+836,44,Male,Ghana,Mobile,13,13,12,0,8,2848.38,23,Premium,No,0
+837,46,Female,Ghana,Desktop,45,13,17,12,2,4339.94,279,Premium,Yes,1
+838,49,Male,Ghana,Mobile,10,2,1,1,0,2166.26,251,Basic,Yes,1
+839,36,Male,Kenya,Mobile,100,37,11,8,0,4833.29,9,Premium,No,0
+840,38,Male,Kenya,Desktop,9,49,28,12,2,2266.55,13,Basic,Yes,0
+841,22,Male,Ghana,Desktop,54,38,1,9,9,722.5,307,Premium,No,0
+842,35,Female,Kenya,Tablet,119,2,15,6,4,1953.28,320,Basic,Yes,0
+843,45,Female,South Africa,Tablet,27,36,28,11,2,4759.0,52,Premium,Yes,0
+844,59,Female,Nigeria,Desktop,34,26,21,9,8,1605.41,209,Basic,Yes,0
+845,39,Male,Nigeria,Mobile,115,11,10,6,7,4341.81,38,Premium,Yes,0
+846,38,Female,Nigeria,Mobile,1,8,7,5,2,4407.44,100,Premium,Yes,0
+847,23,Female,Ghana,Mobile,32,44,2,2,8,1757.43,193,Premium,No,0
+848,18,Male,Kenya,Mobile,89,40,10,9,5,425.46,191,Premium,No,0
+849,22,Male,South Africa,Mobile,93,43,24,2,6,3625.54,51,Basic,Yes,0
+850,58,Female,South Africa,Tablet,71,22,4,1,3,1564.45,141,Basic,No,0
+851,29,Female,Ghana,Desktop,113,20,12,10,3,3916.79,168,Basic,Yes,0
+852,43,Female,South Africa,Tablet,67,8,19,5,1,2218.85,311,Premium,Yes,1
+853,63,Female,South Africa,Mobile,84,29,26,3,4,2431.48,109,Premium,Yes,0
+854,51,Male,South Africa,Mobile,20,40,11,4,7,3891.77,207,Premium,Yes,0
+855,31,Female,South Africa,Mobile,117,26,8,2,6,1917.99,300,Premium,No,0
+856,43,Female,Kenya,Mobile,94,30,18,5,6,2221.21,110,Premium,Yes,0
+857,62,Male,South Africa,Desktop,35,17,11,10,5,1887.19,196,Premium,No,0
+858,44,Female,Nigeria,Mobile,99,20,11,11,2,1843.03,152,Basic,Yes,0
+859,26,Male,Ghana,Desktop,113,16,13,2,4,2634.47,243,Basic,Yes,0
+860,43,Male,Kenya,Mobile,103,46,3,13,0,4045.91,128,Basic,No,0
+861,64,Male,South Africa,Desktop,91,43,12,14,6,1815.22,105,Basic,Yes,0
+862,39,Female,Kenya,Tablet,90,7,3,13,8,2626.03,10,Basic,Yes,0
+863,64,Female,South Africa,Mobile,78,16,10,7,0,3356.93,356,Basic,No,1
+864,47,Male,Nigeria,Desktop,17,45,27,8,1,1354.5,148,Basic,No,0
+865,60,Female,Ghana,Tablet,18,47,17,3,2,1394.84,364,Basic,No,1
+866,34,Female,South Africa,Mobile,45,48,22,14,2,4667.73,140,Premium,Yes,0
+867,43,Male,South Africa,Mobile,116,27,2,8,7,3620.44,190,Premium,Yes,0
+868,53,Male,South Africa,Mobile,93,23,17,11,6,2890.16,94,Premium,No,0
+869,18,Female,South Africa,Desktop,84,24,16,6,5,3242.12,229,Premium,No,0
+870,25,Male,Ghana,Desktop,53,9,2,2,9,156.2,63,Premium,Yes,0
+871,52,Female,Ghana,Tablet,91,35,28,6,9,3094.33,340,Premium,Yes,0
+872,32,Female,Nigeria,Desktop,82,20,22,13,3,2552.45,25,Premium,No,0
+873,64,Female,Ghana,Desktop,68,37,20,0,8,2733.29,268,Basic,No,0
+874,39,Female,South Africa,Mobile,65,42,6,2,0,1803.52,281,Basic,No,1
+875,31,Male,Nigeria,Mobile,114,17,28,5,1,416.55,11,Premium,No,0
+876,43,Male,Nigeria,Mobile,1,47,25,3,3,974.76,320,Basic,Yes,0
+877,45,Male,Nigeria,Mobile,58,31,29,6,2,4754.22,201,Basic,Yes,1
+878,40,Male,South Africa,Mobile,26,8,10,13,0,2049.41,126,Basic,Yes,0
+879,31,Female,Kenya,Mobile,109,15,28,2,4,2338.75,306,Basic,Yes,0
+880,41,Female,South Africa,Mobile,20,31,10,0,6,273.02,190,Basic,No,0
+881,19,Male,Ghana,Tablet,116,30,8,8,1,197.46,89,Premium,Yes,0
+882,62,Female,Ghana,Tablet,87,46,1,14,4,3588.74,355,Basic,No,0
+883,43,Female,South Africa,Tablet,10,20,13,5,5,2695.09,116,Premium,Yes,0
+884,31,Female,South Africa,Tablet,59,39,24,7,6,2548.44,352,Premium,Yes,0
+885,24,Male,Nigeria,Mobile,75,12,9,2,0,1223.19,177,Premium,Yes,0
+886,20,Male,South Africa,Tablet,41,49,22,7,6,3726.31,14,Basic,No,0
+887,64,Male,Nigeria,Mobile,105,17,10,1,3,849.5,257,Premium,Yes,0
+888,40,Female,Ghana,Tablet,5,42,15,11,7,957.77,209,Premium,No,0
+889,63,Male,Nigeria,Desktop,65,30,5,3,3,2308.95,281,Premium,No,0
+890,60,Male,South Africa,Tablet,17,29,22,2,5,1438.54,328,Premium,Yes,0
+891,64,Male,Ghana,Tablet,22,19,16,9,8,1244.84,325,Basic,No,0
+892,62,Male,Kenya,Mobile,98,46,13,0,4,3229.74,105,Premium,Yes,0
+893,35,Male,Nigeria,Tablet,109,11,22,14,3,3258.35,147,Premium,No,0
+894,55,Male,Ghana,Desktop,41,34,25,12,7,4124.34,279,Premium,Yes,0
+895,52,Female,Nigeria,Mobile,93,7,20,12,8,2094.37,9,Premium,No,0
+896,32,Female,Ghana,Mobile,68,44,18,6,3,374.69,118,Basic,No,0
+897,42,Male,Ghana,Tablet,69,34,11,10,2,1375.6,94,Premium,Yes,0
+898,54,Male,Nigeria,Mobile,11,20,27,9,7,4900.23,144,Premium,Yes,0
+899,45,Female,Kenya,Mobile,56,38,9,1,4,2985.33,289,Premium,Yes,0
+900,27,Female,Ghana,Mobile,51,24,16,3,1,3551.59,14,Premium,Yes,0
+901,56,Male,Ghana,Mobile,21,10,2,8,9,46.72,257,Premium,No,0
+902,34,Male,Ghana,Mobile,99,32,26,5,8,2595.85,346,Premium,No,0
+903,56,Male,Kenya,Mobile,76,15,25,7,2,197.27,186,Basic,No,1
+904,39,Male,Kenya,Desktop,26,37,2,1,1,2850.46,345,Premium,No,1
+905,43,Female,South Africa,Tablet,115,20,12,6,0,4604.65,207,Basic,Yes,1
+906,61,Male,Nigeria,Desktop,19,3,8,5,7,4842.41,346,Basic,No,0
+907,42,Male,Kenya,Mobile,109,37,9,12,2,2707.36,172,Premium,Yes,0
+908,34,Male,Nigeria,Mobile,60,40,12,13,6,2296.44,270,Basic,No,0
+909,30,Male,South Africa,Tablet,71,8,26,8,0,4725.64,221,Premium,Yes,1
+910,37,Female,Nigeria,Desktop,47,40,9,6,0,3371.31,152,Basic,Yes,0
+911,42,Female,Kenya,Tablet,119,44,10,0,8,333.85,111,Premium,Yes,0
+912,21,Female,Nigeria,Desktop,71,23,25,13,7,2333.97,183,Basic,Yes,0
+913,27,Male,Kenya,Mobile,26,40,2,7,2,1208.82,339,Basic,Yes,1
+914,20,Male,Nigeria,Tablet,40,11,16,10,5,2354.32,72,Premium,No,0
+915,58,Female,Kenya,Tablet,5,46,20,9,2,2282.77,283,Basic,Yes,1
+916,62,Male,Kenya,Mobile,21,8,7,14,3,2914.9,74,Basic,No,0
+917,35,Male,Nigeria,Tablet,78,29,28,2,0,1790.28,355,Basic,No,1
+918,64,Female,South Africa,Desktop,4,30,2,13,4,829.71,215,Basic,Yes,0
+919,53,Female,Ghana,Desktop,23,10,1,1,0,2523.56,328,Basic,No,1
+920,64,Female,South Africa,Desktop,106,39,19,11,0,4152.71,23,Premium,No,0
+921,39,Female,Nigeria,Desktop,84,28,28,2,9,3323.42,68,Basic,No,0
+922,51,Male,South Africa,Mobile,15,49,4,10,6,1698.46,362,Basic,Yes,0
+923,64,Male,Kenya,Tablet,114,36,24,5,5,4678.26,93,Premium,Yes,0
+924,25,Female,Ghana,Desktop,116,13,22,12,1,4561.92,321,Premium,Yes,1
+925,57,Male,Nigeria,Mobile,109,32,27,13,1,1054.65,324,Premium,Yes,1
+926,61,Female,Nigeria,Tablet,93,36,2,2,6,206.69,63,Basic,No,0
+927,36,Female,Nigeria,Tablet,8,37,25,9,0,3709.13,224,Basic,No,1
+928,59,Male,Ghana,Mobile,41,26,14,4,1,4139.78,225,Basic,No,1
+929,58,Female,Kenya,Mobile,112,22,2,5,7,4839.64,346,Basic,No,0
+930,54,Male,Nigeria,Desktop,19,4,29,7,5,4450.28,337,Premium,No,0
+931,23,Male,South Africa,Tablet,112,31,15,6,1,3006.67,103,Premium,No,0
+932,43,Male,Nigeria,Tablet,103,18,12,13,6,2654.96,215,Basic,Yes,0
+933,51,Male,Nigeria,Mobile,46,38,5,10,3,148.93,192,Basic,No,0
+934,62,Female,Nigeria,Tablet,28,24,28,7,1,1240.82,160,Basic,No,0
+935,23,Male,Nigeria,Desktop,110,23,20,2,5,2303.48,207,Basic,No,0
+936,54,Female,Kenya,Tablet,91,22,29,3,8,3146.23,269,Premium,Yes,0
+937,50,Female,South Africa,Mobile,68,2,7,5,8,2790.69,194,Premium,No,0
+938,39,Female,Kenya,Mobile,15,31,24,10,7,3715.75,152,Basic,No,0
+939,38,Female,South Africa,Desktop,99,11,21,6,2,1406.04,237,Premium,Yes,1
+940,23,Male,Nigeria,Desktop,37,28,10,8,2,2829.11,88,Basic,No,0
+941,23,Male,Ghana,Tablet,1,46,14,12,1,449.83,11,Basic,Yes,0
+942,21,Female,Kenya,Tablet,67,32,14,0,4,2074.19,187,Premium,Yes,0
+943,47,Female,Ghana,Mobile,111,5,5,12,3,3753.3,214,Basic,No,0
+944,28,Male,Kenya,Desktop,24,38,18,14,6,3470.07,15,Premium,No,0
+945,47,Female,Nigeria,Desktop,27,10,24,7,3,4953.31,266,Basic,Yes,0
+946,48,Male,Kenya,Desktop,40,40,14,7,8,1396.68,297,Premium,No,0
+947,41,Female,Nigeria,Tablet,63,46,2,5,1,2495.96,73,Basic,No,0
+948,26,Male,Kenya,Desktop,61,24,26,3,5,1654.36,52,Premium,Yes,0
+949,20,Female,Nigeria,Mobile,36,35,12,2,6,2208.61,128,Basic,Yes,0
+950,48,Female,Nigeria,Mobile,98,44,22,10,3,4286.18,28,Basic,No,0
+951,57,Male,South Africa,Tablet,93,48,24,2,5,3424.2,65,Premium,Yes,0
+952,54,Female,Nigeria,Tablet,24,23,6,5,6,4413.38,17,Basic,No,0
+953,53,Female,South Africa,Desktop,24,17,4,12,3,1025.52,351,Premium,No,0
+954,41,Male,Nigeria,Tablet,106,1,13,7,7,4368.07,138,Premium,No,0
+955,48,Female,Ghana,Mobile,4,31,4,6,8,308.21,319,Basic,No,0
+956,23,Male,Nigeria,Desktop,67,31,22,10,0,4444.11,229,Basic,Yes,1
+957,19,Male,Ghana,Mobile,34,42,14,0,6,1652.08,254,Basic,No,0
+958,37,Female,Ghana,Desktop,57,42,16,10,8,1579.79,210,Basic,Yes,0
+959,45,Female,Nigeria,Tablet,49,34,29,5,9,2565.32,294,Premium,No,0
+960,28,Female,Ghana,Desktop,87,9,4,6,4,4704.04,231,Basic,No,0
+961,21,Female,South Africa,Desktop,53,22,24,11,1,248.43,241,Basic,Yes,1
+962,32,Female,Kenya,Mobile,116,13,25,6,9,1767.63,70,Basic,No,0
+963,23,Female,Nigeria,Mobile,23,25,1,8,5,4284.29,104,Premium,Yes,0
+964,47,Female,Ghana,Desktop,109,48,13,10,6,1986.31,204,Basic,Yes,0
+965,55,Male,Nigeria,Tablet,69,18,4,10,1,1003.79,53,Premium,No,0
+966,19,Female,South Africa,Tablet,95,12,20,9,1,2129.72,330,Basic,No,1
+967,32,Male,Nigeria,Mobile,53,40,18,4,9,1933.91,54,Premium,No,0
+968,28,Female,Nigeria,Tablet,62,17,6,0,9,4577.93,276,Basic,No,0
+969,25,Female,Ghana,Mobile,41,15,3,1,0,3812.05,335,Basic,Yes,1
+970,43,Male,South Africa,Tablet,57,42,23,14,3,2530.53,31,Premium,No,0
+971,62,Female,Kenya,Desktop,60,15,13,3,6,4941.97,135,Basic,No,0
+972,61,Female,Kenya,Mobile,54,15,27,4,8,2331.73,58,Basic,No,0
+973,22,Male,Ghana,Mobile,70,39,16,8,2,300.61,105,Basic,No,0
+974,23,Female,Nigeria,Desktop,101,13,27,10,6,1318.75,266,Premium,No,0
+975,43,Female,Ghana,Mobile,57,17,5,14,6,2185.99,10,Basic,Yes,0
+976,21,Female,Ghana,Tablet,10,32,4,0,6,792.94,253,Premium,No,0
+977,36,Male,Ghana,Tablet,40,9,21,2,1,4738.35,295,Premium,Yes,1
+978,37,Female,Nigeria,Mobile,7,40,8,4,5,3836.58,156,Premium,No,0
+979,50,Female,South Africa,Tablet,103,20,19,2,1,1348.75,158,Basic,No,0
+980,37,Female,Ghana,Mobile,38,26,14,3,5,2958.11,37,Premium,No,0
+981,29,Female,Nigeria,Desktop,85,27,7,14,9,3610.03,119,Premium,Yes,0
+982,64,Male,South Africa,Mobile,61,21,14,13,2,4706.98,67,Basic,No,0
+983,18,Male,Ghana,Desktop,84,18,6,2,1,4409.36,242,Premium,Yes,1
+984,43,Female,Kenya,Tablet,3,13,12,3,5,2580.81,299,Premium,Yes,0
+985,31,Female,South Africa,Desktop,51,16,16,13,1,3875.52,213,Basic,No,1
+986,55,Male,Ghana,Tablet,86,9,17,14,4,2815.1,308,Basic,Yes,0
+987,54,Male,South Africa,Mobile,47,12,13,12,1,2767.99,101,Premium,No,0
+988,28,Female,South Africa,Tablet,68,44,23,12,2,582.56,56,Basic,No,0
+989,53,Male,South Africa,Mobile,92,38,14,14,2,639.43,332,Basic,Yes,1
+990,30,Female,South Africa,Mobile,76,19,29,14,5,2652.37,324,Basic,No,0
+991,60,Male,South Africa,Desktop,38,7,7,0,5,1351.62,239,Premium,No,0
+992,20,Male,South Africa,Desktop,115,35,14,11,9,114.97,231,Premium,Yes,0
+993,50,Male,Ghana,Desktop,36,48,15,7,2,3616.97,362,Basic,Yes,1
+994,23,Male,Kenya,Desktop,111,18,12,3,2,172.11,92,Premium,Yes,0
+995,27,Female,Nigeria,Tablet,41,16,17,6,0,2980.43,279,Basic,Yes,1
+996,22,Male,South Africa,Tablet,69,39,9,1,6,2700.58,109,Basic,Yes,0
+997,40,Male,Nigeria,Tablet,13,4,22,1,7,4844.39,317,Basic,Yes,0
+998,27,Female,Ghana,Mobile,87,25,15,5,1,2426.22,168,Basic,No,0
+999,61,Male,South Africa,Tablet,58,32,12,13,3,327.37,300,Basic,Yes,0
+1000,19,Male,Kenya,Tablet,50,40,2,1,9,2762.92,218,Premium,Yes,0
